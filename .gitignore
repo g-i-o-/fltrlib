@@ -1,0 +1,7 @@
+# python virtual env
+.env
+
+# python compiled binaries
+*pyc
+
+.env
