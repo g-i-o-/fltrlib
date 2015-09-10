@@ -5,3 +5,6 @@
 *pyc
 
 .env
+
+#ipython stuff
+.ipynb_checkpoints
