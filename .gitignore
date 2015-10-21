@@ -8,3 +8,6 @@
 
 #ipython stuff
 .ipynb_checkpoints
+
+#flacs(temporaryly)
+*.flac
