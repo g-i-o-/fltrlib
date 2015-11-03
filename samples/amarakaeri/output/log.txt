@@ -1,0 +1,1686 @@
+2015-10-02 22:20:37:	 log file
+2015-10-02 22:20:37:	storing in : <LocalStorage basepath:'/home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/output'>
+2015-10-02 22:20:37:	fetching classification playlist
+2015-10-02 22:20:37:	start categorization pipe
+2015-10-02 22:20:37:	Rec.py : init completed:0.000100135803223
+2015-10-02 22:20:37:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-01-31_08-50.flac is already in local storage.
+2015-10-02 22:20:37:	Rec.py : getAudioFromUri:4.6968460083e-05
+2015-10-02 22:20:37:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:20:37:	Rec.py : readAudioFromFile:0.0428071022034
+2015-10-02 22:20:37:	Rec.py : process completed:0.0429990291595
+2015-10-02 22:20:43:	segmented recording (308 rois found)
+2015-10-02 22:20:43:	Rec.py : init completed:5.88893890381e-05
+2015-10-02 22:20:43:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-09-30_02-50.flac is already in local storage.
+2015-10-02 22:20:43:	Rec.py : getAudioFromUri:3.31401824951e-05
+2015-10-02 22:20:43:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:20:43:	Rec.py : readAudioFromFile:0.563482046127
+2015-10-02 22:20:43:	Rec.py : process completed:0.563618183136
+2015-10-02 22:20:47:	segmented recording (1044 rois found)
+2015-10-02 22:20:47:	Rec.py : init completed:6.41345977783e-05
+2015-10-02 22:20:47:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-23_15-40.flac is already in local storage.
+2015-10-02 22:20:47:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:20:47:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:20:47:	Rec.py : readAudioFromFile:0.0258071422577
+2015-10-02 22:20:47:	Rec.py : process completed:0.0259568691254
+2015-10-02 22:20:52:	segmented recording (329 rois found)
+2015-10-02 22:20:52:	Rec.py : init completed:5.60283660889e-05
+2015-10-02 22:20:52:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-10_03-10.flac is already in local storage.
+2015-10-02 22:20:52:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:20:52:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:20:52:	Rec.py : readAudioFromFile:0.539969921112
+2015-10-02 22:20:52:	Rec.py : process completed:0.54012799263
+2015-10-02 22:20:56:	segmented recording (630 rois found)
+2015-10-02 22:20:56:	Rec.py : init completed:5.50746917725e-05
+2015-10-02 22:20:56:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-26_11-50.flac is already in local storage.
+2015-10-02 22:20:56:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:20:56:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:20:56:	Rec.py : readAudioFromFile:0.0249881744385
+2015-10-02 22:20:56:	Rec.py : process completed:0.0251369476318
+2015-10-02 22:21:00:	segmented recording (122 rois found)
+2015-10-02 22:21:00:	Rec.py : init completed:6.29425048828e-05
+2015-10-02 22:21:00:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-08_18-30.flac is already in local storage.
+2015-10-02 22:21:00:	Rec.py : getAudioFromUri:3.48091125488e-05
+2015-10-02 22:21:00:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:21:00:	Rec.py : readAudioFromFile:0.0249888896942
+2015-10-02 22:21:00:	Rec.py : process completed:0.0251460075378
+2015-10-02 22:21:05:	segmented recording (381 rois found)
+2015-10-02 22:21:05:	Rec.py : init completed:5.19752502441e-05
+2015-10-02 22:21:05:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-05_05-10.flac is already in local storage.
+2015-10-02 22:21:05:	Rec.py : getAudioFromUri:3.31401824951e-05
+2015-10-02 22:21:05:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:21:05:	Rec.py : readAudioFromFile:0.445614099503
+2015-10-02 22:21:05:	Rec.py : process completed:0.445775032043
+2015-10-02 22:21:09:	segmented recording (535 rois found)
+2015-10-02 22:21:09:	Rec.py : init completed:6.00814819336e-05
+2015-10-02 22:21:09:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-25_14-30.flac is already in local storage.
+2015-10-02 22:21:09:	Rec.py : getAudioFromUri:3.31401824951e-05
+2015-10-02 22:21:09:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:21:09:	Rec.py : readAudioFromFile:0.0247118473053
+2015-10-02 22:21:09:	Rec.py : process completed:0.0248589515686
+2015-10-02 22:21:13:	segmented recording (135 rois found)
+2015-10-02 22:21:13:	Rec.py : init completed:6.19888305664e-05
+2015-10-02 22:21:13:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-12_12-20.flac is already in local storage.
+2015-10-02 22:21:13:	Rec.py : getAudioFromUri:3.60012054443e-05
+2015-10-02 22:21:13:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:21:13:	Rec.py : readAudioFromFile:0.0244710445404
+2015-10-02 22:21:13:	Rec.py : process completed:0.024619102478
+2015-10-02 22:21:18:	segmented recording (92 rois found)
+2015-10-02 22:21:18:	Rec.py : init completed:6.29425048828e-05
+2015-10-02 22:21:18:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-10_13-40.flac is already in local storage.
+2015-10-02 22:21:18:	Rec.py : getAudioFromUri:3.38554382324e-05
+2015-10-02 22:21:18:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:21:18:	Rec.py : readAudioFromFile:0.0246441364288
+2015-10-02 22:21:18:	Rec.py : process completed:0.0247831344604
+2015-10-02 22:21:22:	segmented recording (176 rois found)
+2015-10-02 22:21:22:	Rec.py : init completed:6.103515625e-05
+2015-10-02 22:21:22:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-27_07-40.flac is already in local storage.
+2015-10-02 22:21:22:	Rec.py : getAudioFromUri:3.40938568115e-05
+2015-10-02 22:21:22:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:21:22:	Rec.py : readAudioFromFile:0.0247609615326
+2015-10-02 22:21:22:	Rec.py : process completed:0.0249030590057
+2015-10-02 22:21:26:	segmented recording (266 rois found)
+2015-10-02 22:21:26:	Rec.py : init completed:5.10215759277e-05
+2015-10-02 22:21:26:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-22_03-40.flac is already in local storage.
+2015-10-02 22:21:26:	Rec.py : getAudioFromUri:3.31401824951e-05
+2015-10-02 22:21:26:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:21:26:	Rec.py : readAudioFromFile:0.446056127548
+2015-10-02 22:21:26:	Rec.py : process completed:0.446206092834
+2015-10-02 22:21:31:	segmented recording (329 rois found)
+2015-10-02 22:21:31:	Rec.py : init completed:5.69820404053e-05
+2015-10-02 22:21:31:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-24_18-00.flac is already in local storage.
+2015-10-02 22:21:31:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:21:31:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:21:31:	Rec.py : readAudioFromFile:0.0253851413727
+2015-10-02 22:21:31:	Rec.py : process completed:0.0255160331726
+2015-10-02 22:21:35:	segmented recording (467 rois found)
+2015-10-02 22:21:35:	Rec.py : init completed:7.31945037842e-05
+2015-10-02 22:21:35:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-01_09-00.flac is already in local storage.
+2015-10-02 22:21:35:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:21:35:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:21:35:	Rec.py : readAudioFromFile:0.0249271392822
+2015-10-02 22:21:35:	Rec.py : process completed:0.0251049995422
+2015-10-02 22:21:39:	segmented recording (440 rois found)
+2015-10-02 22:21:39:	Rec.py : init completed:7.79628753662e-05
+2015-10-02 22:21:39:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-03_15-00.flac is already in local storage.
+2015-10-02 22:21:39:	Rec.py : getAudioFromUri:3.38554382324e-05
+2015-10-02 22:21:39:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:21:39:	Rec.py : readAudioFromFile:0.0249218940735
+2015-10-02 22:21:39:	Rec.py : process completed:0.0250489711761
+2015-10-02 22:21:43:	segmented recording (275 rois found)
+2015-10-02 22:21:43:	Rec.py : init completed:6.19888305664e-05
+2015-10-02 22:21:43:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-18_05-40.flac is already in local storage.
+2015-10-02 22:21:43:	Rec.py : getAudioFromUri:3.40938568115e-05
+2015-10-02 22:21:43:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:21:43:	Rec.py : readAudioFromFile:0.0242140293121
+2015-10-02 22:21:43:	Rec.py : process completed:0.0243618488312
+2015-10-02 22:21:48:	segmented recording (179 rois found)
+2015-10-02 22:21:48:	Rec.py : init completed:5.50746917725e-05
+2015-10-02 22:21:48:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-07_23-00.flac is already in local storage.
+2015-10-02 22:21:48:	Rec.py : getAudioFromUri:3.48091125488e-05
+2015-10-02 22:21:48:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:21:48:	Rec.py : readAudioFromFile:0.0256559848785
+2015-10-02 22:21:48:	Rec.py : process completed:0.0258162021637
+2015-10-02 22:21:52:	segmented recording (292 rois found)
+2015-10-02 22:21:52:	Rec.py : init completed:5.31673431396e-05
+2015-10-02 22:21:52:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-04_21-30.flac is already in local storage.
+2015-10-02 22:21:52:	Rec.py : getAudioFromUri:3.40938568115e-05
+2015-10-02 22:21:52:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:21:52:	Rec.py : readAudioFromFile:0.0246849060059
+2015-10-02 22:21:52:	Rec.py : process completed:0.0248229503632
+2015-10-02 22:21:56:	segmented recording (980 rois found)
+2015-10-02 22:21:56:	Rec.py : init completed:5.91278076172e-05
+2015-10-02 22:21:56:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-05_06-00.flac is already in local storage.
+2015-10-02 22:21:56:	Rec.py : getAudioFromUri:3.38554382324e-05
+2015-10-02 22:21:56:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:21:56:	Rec.py : readAudioFromFile:0.0257289409637
+2015-10-02 22:21:56:	Rec.py : process completed:0.0259189605713
+2015-10-02 22:22:00:	segmented recording (91 rois found)
+2015-10-02 22:22:00:	Rec.py : init completed:5.60283660889e-05
+2015-10-02 22:22:00:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-07_07-40.flac is already in local storage.
+2015-10-02 22:22:00:	Rec.py : getAudioFromUri:3.40938568115e-05
+2015-10-02 22:22:00:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:22:00:	Rec.py : readAudioFromFile:0.0254850387573
+2015-10-02 22:22:00:	Rec.py : process completed:0.0256280899048
+2015-10-02 22:22:04:	segmented recording (582 rois found)
+2015-10-02 22:22:04:	Rec.py : init completed:5.69820404053e-05
+2015-10-02 22:22:04:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-11_14-40.flac is already in local storage.
+2015-10-02 22:22:04:	Rec.py : getAudioFromUri:3.40938568115e-05
+2015-10-02 22:22:04:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:22:05:	Rec.py : readAudioFromFile:0.0252778530121
+2015-10-02 22:22:05:	Rec.py : process completed:0.0254418849945
+2015-10-02 22:22:09:	segmented recording (94 rois found)
+2015-10-02 22:22:09:	Rec.py : init completed:6.79492950439e-05
+2015-10-02 22:22:09:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-09-28_03-00.flac is already in local storage.
+2015-10-02 22:22:09:	Rec.py : getAudioFromUri:3.81469726562e-05
+2015-10-02 22:22:09:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:22:09:	Rec.py : readAudioFromFile:0.562696933746
+2015-10-02 22:22:09:	Rec.py : process completed:0.56288599968
+2015-10-02 22:22:14:	segmented recording (965 rois found)
+2015-10-02 22:22:14:	Rec.py : init completed:6.00814819336e-05
+2015-10-02 22:22:14:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-15_12-50.flac is already in local storage.
+2015-10-02 22:22:14:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:22:14:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:22:14:	Rec.py : readAudioFromFile:0.0240399837494
+2015-10-02 22:22:14:	Rec.py : process completed:0.0241658687592
+2015-10-02 22:22:18:	segmented recording (138 rois found)
+2015-10-02 22:22:18:	Rec.py : init completed:5.29289245605e-05
+2015-10-02 22:22:18:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-06_18-30.flac is already in local storage.
+2015-10-02 22:22:18:	Rec.py : getAudioFromUri:3.38554382324e-05
+2015-10-02 22:22:18:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:22:18:	Rec.py : readAudioFromFile:0.0251150131226
+2015-10-02 22:22:18:	Rec.py : process completed:0.0252528190613
+2015-10-02 22:22:22:	segmented recording (479 rois found)
+2015-10-02 22:22:22:	Rec.py : init completed:0.000105142593384
+2015-10-02 22:22:22:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-18_07-20.flac is already in local storage.
+2015-10-02 22:22:22:	Rec.py : getAudioFromUri:6.29425048828e-05
+2015-10-02 22:22:22:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:22:22:	Rec.py : readAudioFromFile:0.0252859592438
+2015-10-02 22:22:22:	Rec.py : process completed:0.0254940986633
+2015-10-02 22:22:26:	segmented recording (324 rois found)
+2015-10-02 22:22:26:	Rec.py : init completed:6.19888305664e-05
+2015-10-02 22:22:26:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-24_01-10.flac is already in local storage.
+2015-10-02 22:22:26:	Rec.py : getAudioFromUri:3.31401824951e-05
+2015-10-02 22:22:26:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:22:27:	Rec.py : readAudioFromFile:0.486249923706
+2015-10-02 22:22:27:	Rec.py : process completed:0.486397027969
+2015-10-02 22:22:31:	segmented recording (389 rois found)
+2015-10-02 22:22:31:	Rec.py : init completed:5.41210174561e-05
+2015-10-02 22:22:31:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-04_09-20.flac is already in local storage.
+2015-10-02 22:22:31:	Rec.py : getAudioFromUri:3.40938568115e-05
+2015-10-02 22:22:31:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:22:31:	Rec.py : readAudioFromFile:0.025022983551
+2015-10-02 22:22:31:	Rec.py : process completed:0.0251619815826
+2015-10-02 22:22:35:	segmented recording (96 rois found)
+2015-10-02 22:22:35:	Rec.py : init completed:7.20024108887e-05
+2015-10-02 22:22:35:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-05_06-50.flac is already in local storage.
+2015-10-02 22:22:35:	Rec.py : getAudioFromUri:3.50475311279e-05
+2015-10-02 22:22:35:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:22:35:	Rec.py : readAudioFromFile:0.0246090888977
+2015-10-02 22:22:35:	Rec.py : process completed:0.0247440338135
+2015-10-02 22:22:39:	segmented recording (147 rois found)
+2015-10-02 22:22:39:	Rec.py : init completed:5.48362731934e-05
+2015-10-02 22:22:39:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-27_01-10.flac is already in local storage.
+2015-10-02 22:22:39:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:22:39:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:22:40:	Rec.py : readAudioFromFile:0.719200134277
+2015-10-02 22:22:40:	Rec.py : process completed:0.719347000122
+2015-10-02 22:22:44:	segmented recording (608 rois found)
+2015-10-02 22:22:44:	Rec.py : init completed:5.60283660889e-05
+2015-10-02 22:22:44:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-12_06-50.flac is already in local storage.
+2015-10-02 22:22:44:	Rec.py : getAudioFromUri:3.40938568115e-05
+2015-10-02 22:22:44:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:22:44:	Rec.py : readAudioFromFile:0.0247731208801
+2015-10-02 22:22:44:	Rec.py : process completed:0.0248961448669
+2015-10-02 22:22:48:	segmented recording (617 rois found)
+2015-10-02 22:22:48:	Rec.py : init completed:6.31809234619e-05
+2015-10-02 22:22:48:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-11_00-10.flac is already in local storage.
+2015-10-02 22:22:48:	Rec.py : getAudioFromUri:3.40938568115e-05
+2015-10-02 22:22:48:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:22:49:	Rec.py : readAudioFromFile:0.563825130463
+2015-10-02 22:22:49:	Rec.py : process completed:0.564007043839
+2015-10-02 22:22:53:	segmented recording (270 rois found)
+2015-10-02 22:22:53:	Rec.py : init completed:5.69820404053e-05
+2015-10-02 22:22:53:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-04_22-10.flac is already in local storage.
+2015-10-02 22:22:53:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:22:53:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:22:53:	Rec.py : readAudioFromFile:0.0248811244965
+2015-10-02 22:22:53:	Rec.py : process completed:0.0497138500214
+2015-10-02 22:22:57:	segmented recording (985 rois found)
+2015-10-02 22:22:57:	Rec.py : init completed:6.29425048828e-05
+2015-10-02 22:22:57:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-09-30_23-00.flac is already in local storage.
+2015-10-02 22:22:57:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:22:57:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:22:57:	Rec.py : readAudioFromFile:0.0256991386414
+2015-10-02 22:22:57:	Rec.py : process completed:0.0258319377899
+2015-10-02 22:23:01:	segmented recording (1103 rois found)
+2015-10-02 22:23:01:	Rec.py : init completed:5.19752502441e-05
+2015-10-02 22:23:01:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-09_04-40.flac is already in local storage.
+2015-10-02 22:23:01:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:23:01:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:23:02:	Rec.py : readAudioFromFile:0.46512389183
+2015-10-02 22:23:02:	Rec.py : process completed:0.465267181396
+2015-10-02 22:23:06:	segmented recording (466 rois found)
+2015-10-02 22:23:06:	Rec.py : init completed:5.29289245605e-05
+2015-10-02 22:23:06:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-16_23-40.flac is already in local storage.
+2015-10-02 22:23:06:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:23:06:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:23:06:	Rec.py : readAudioFromFile:0.024827003479
+2015-10-02 22:23:06:	Rec.py : process completed:0.0249710083008
+2015-10-02 22:23:10:	segmented recording (410 rois found)
+2015-10-02 22:23:10:	Rec.py : init completed:6.19888305664e-05
+2015-10-02 22:23:10:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-20_17-50.flac is already in local storage.
+2015-10-02 22:23:10:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:23:10:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:23:10:	Rec.py : readAudioFromFile:0.0245671272278
+2015-10-02 22:23:10:	Rec.py : process completed:0.0247049331665
+2015-10-02 22:23:14:	segmented recording (506 rois found)
+2015-10-02 22:23:14:	Rec.py : init completed:5.79357147217e-05
+2015-10-02 22:23:14:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-09-26_16-50.flac is already in local storage.
+2015-10-02 22:23:14:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:23:14:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:23:14:	Rec.py : readAudioFromFile:0.0246679782867
+2015-10-02 22:23:14:	Rec.py : process completed:0.02481508255
+2015-10-02 22:23:18:	segmented recording (187 rois found)
+2015-10-02 22:23:18:	Rec.py : init completed:6.29425048828e-05
+2015-10-02 22:23:18:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-03_18-40.flac is already in local storage.
+2015-10-02 22:23:18:	Rec.py : getAudioFromUri:3.38554382324e-05
+2015-10-02 22:23:18:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:23:18:	Rec.py : readAudioFromFile:0.0250399112701
+2015-10-02 22:23:18:	Rec.py : process completed:0.0251867771149
+2015-10-02 22:23:23:	segmented recording (374 rois found)
+2015-10-02 22:23:23:	Rec.py : init completed:6.00814819336e-05
+2015-10-02 22:23:23:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-09-29_22-00.flac is already in local storage.
+2015-10-02 22:23:23:	Rec.py : getAudioFromUri:3.31401824951e-05
+2015-10-02 22:23:23:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:23:23:	Rec.py : readAudioFromFile:0.0254850387573
+2015-10-02 22:23:23:	Rec.py : process completed:0.0256199836731
+2015-10-02 22:23:27:	segmented recording (1125 rois found)
+2015-10-02 22:23:27:	Rec.py : init completed:5.57899475098e-05
+2015-10-02 22:23:27:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-19_15-20.flac is already in local storage.
+2015-10-02 22:23:27:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:23:27:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:23:27:	Rec.py : readAudioFromFile:0.0254731178284
+2015-10-02 22:23:27:	Rec.py : process completed:0.0256009101868
+2015-10-02 22:23:31:	segmented recording (43 rois found)
+2015-10-02 22:23:31:	Rec.py : init completed:6.79492950439e-05
+2015-10-02 22:23:31:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-09-28_08-20.flac is already in local storage.
+2015-10-02 22:23:31:	Rec.py : getAudioFromUri:3.81469726562e-05
+2015-10-02 22:23:31:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:23:31:	Rec.py : readAudioFromFile:0.0247840881348
+2015-10-02 22:23:31:	Rec.py : process completed:0.0249171257019
+2015-10-02 22:23:35:	segmented recording (242 rois found)
+2015-10-02 22:23:35:	Rec.py : init completed:6.103515625e-05
+2015-10-02 22:23:35:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-19_10-30.flac is already in local storage.
+2015-10-02 22:23:35:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:23:35:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:23:35:	Rec.py : readAudioFromFile:0.0250849723816
+2015-10-02 22:23:35:	Rec.py : process completed:0.0252180099487
+2015-10-02 22:23:39:	segmented recording (58 rois found)
+2015-10-02 22:23:39:	Rec.py : init completed:6.19888305664e-05
+2015-10-02 22:23:39:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-01_15-50.flac is already in local storage.
+2015-10-02 22:23:39:	Rec.py : getAudioFromUri:3.79085540771e-05
+2015-10-02 22:23:39:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:23:39:	Rec.py : readAudioFromFile:0.0254240036011
+2015-10-02 22:23:39:	Rec.py : process completed:0.0255959033966
+2015-10-02 22:23:43:	segmented recording (169 rois found)
+2015-10-02 22:23:43:	Rec.py : init completed:6.29425048828e-05
+2015-10-02 22:23:43:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-09_10-40.flac is already in local storage.
+2015-10-02 22:23:43:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:23:43:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:23:43:	Rec.py : readAudioFromFile:0.025249004364
+2015-10-02 22:23:43:	Rec.py : process completed:0.0254158973694
+2015-10-02 22:23:48:	segmented recording (174 rois found)
+2015-10-02 22:23:48:	Rec.py : init completed:6.50882720947e-05
+2015-10-02 22:23:48:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-04_08-00.flac is already in local storage.
+2015-10-02 22:23:48:	Rec.py : getAudioFromUri:3.48091125488e-05
+2015-10-02 22:23:48:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:23:48:	Rec.py : readAudioFromFile:0.0244498252869
+2015-10-02 22:23:48:	Rec.py : process completed:0.0245800018311
+2015-10-02 22:23:52:	segmented recording (95 rois found)
+2015-10-02 22:23:52:	Rec.py : init completed:5.69820404053e-05
+2015-10-02 22:23:52:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-05_23-30.flac is already in local storage.
+2015-10-02 22:23:52:	Rec.py : getAudioFromUri:3.38554382324e-05
+2015-10-02 22:23:52:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:23:52:	Rec.py : readAudioFromFile:0.0254390239716
+2015-10-02 22:23:52:	Rec.py : process completed:0.0255999565125
+2015-10-02 22:23:56:	segmented recording (866 rois found)
+2015-10-02 22:23:56:	Rec.py : init completed:5.3882598877e-05
+2015-10-02 22:23:56:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-21_17-00.flac is already in local storage.
+2015-10-02 22:23:56:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:23:56:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:23:56:	Rec.py : readAudioFromFile:0.0246059894562
+2015-10-02 22:23:56:	Rec.py : process completed:0.0247468948364
+2015-10-02 22:24:00:	segmented recording (297 rois found)
+2015-10-02 22:24:00:	Rec.py : init completed:5.60283660889e-05
+2015-10-02 22:24:00:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-08_19-10.flac is already in local storage.
+2015-10-02 22:24:00:	Rec.py : getAudioFromUri:3.31401824951e-05
+2015-10-02 22:24:00:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:24:00:	Rec.py : readAudioFromFile:0.0240039825439
+2015-10-02 22:24:00:	Rec.py : process completed:0.0241401195526
+2015-10-02 22:24:04:	segmented recording (347 rois found)
+2015-10-02 22:24:04:	Rec.py : init completed:6.41345977783e-05
+2015-10-02 22:24:04:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-09-29_05-20.flac is already in local storage.
+2015-10-02 22:24:04:	Rec.py : getAudioFromUri:3.40938568115e-05
+2015-10-02 22:24:04:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:24:04:	Rec.py : readAudioFromFile:0.241465091705
+2015-10-02 22:24:04:	Rec.py : process completed:0.241610050201
+2015-10-02 22:24:09:	segmented recording (441 rois found)
+2015-10-02 22:24:09:	Rec.py : init completed:5.31673431396e-05
+2015-10-02 22:24:09:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-27_07-00.flac is already in local storage.
+2015-10-02 22:24:09:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:24:09:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:24:09:	Rec.py : readAudioFromFile:0.0245270729065
+2015-10-02 22:24:09:	Rec.py : process completed:0.0246498584747
+2015-10-02 22:24:13:	segmented recording (286 rois found)
+2015-10-02 22:24:13:	Rec.py : init completed:5.31673431396e-05
+2015-10-02 22:24:13:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-09-29_05-50.flac is already in local storage.
+2015-10-02 22:24:13:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:24:13:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:24:13:	Rec.py : readAudioFromFile:0.0245161056519
+2015-10-02 22:24:13:	Rec.py : process completed:0.0246639251709
+2015-10-02 22:24:17:	segmented recording (342 rois found)
+2015-10-02 22:24:17:	Rec.py : init completed:5.69820404053e-05
+2015-10-02 22:24:17:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-16_12-40.flac is already in local storage.
+2015-10-02 22:24:17:	Rec.py : getAudioFromUri:3.40938568115e-05
+2015-10-02 22:24:17:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:24:17:	Rec.py : readAudioFromFile:0.025130033493
+2015-10-02 22:24:17:	Rec.py : process completed:0.0252559185028
+2015-10-02 22:24:21:	segmented recording (267 rois found)
+2015-10-02 22:24:21:	Rec.py : init completed:5.69820404053e-05
+2015-10-02 22:24:21:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-02_11-00.flac is already in local storage.
+2015-10-02 22:24:21:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:24:21:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:24:21:	Rec.py : readAudioFromFile:0.0251529216766
+2015-10-02 22:24:21:	Rec.py : process completed:0.0435531139374
+2015-10-02 22:24:25:	segmented recording (388 rois found)
+2015-10-02 22:24:25:	Rec.py : init completed:6.22272491455e-05
+2015-10-02 22:24:25:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-09-26_20-30.flac is already in local storage.
+2015-10-02 22:24:25:	Rec.py : getAudioFromUri:3.31401824951e-05
+2015-10-02 22:24:25:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:24:25:	Rec.py : readAudioFromFile:0.0253047943115
+2015-10-02 22:24:25:	Rec.py : process completed:0.025444984436
+2015-10-02 22:24:29:	segmented recording (898 rois found)
+2015-10-02 22:24:29:	Rec.py : init completed:5.3882598877e-05
+2015-10-02 22:24:29:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-26_21-00.flac is already in local storage.
+2015-10-02 22:24:29:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:24:29:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:24:29:	Rec.py : readAudioFromFile:0.0244810581207
+2015-10-02 22:24:29:	Rec.py : process completed:0.0246090888977
+2015-10-02 22:24:34:	segmented recording (577 rois found)
+2015-10-02 22:24:34:	Rec.py : init completed:5.81741333008e-05
+2015-10-02 22:24:34:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-05_07-20.flac is already in local storage.
+2015-10-02 22:24:34:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:24:34:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:24:34:	Rec.py : readAudioFromFile:0.0250949859619
+2015-10-02 22:24:34:	Rec.py : process completed:0.0252242088318
+2015-10-02 22:24:38:	segmented recording (454 rois found)
+2015-10-02 22:24:38:	Rec.py : init completed:5.50746917725e-05
+2015-10-02 22:24:38:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-09-30_05-50.flac is already in local storage.
+2015-10-02 22:24:38:	Rec.py : getAudioFromUri:2.88486480713e-05
+2015-10-02 22:24:38:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:24:38:	Rec.py : readAudioFromFile:0.0245468616486
+2015-10-02 22:24:38:	Rec.py : process completed:0.0246820449829
+2015-10-02 22:24:42:	segmented recording (99 rois found)
+2015-10-02 22:24:42:	Rec.py : init completed:6.38961791992e-05
+2015-10-02 22:24:42:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-17_16-20.flac is already in local storage.
+2015-10-02 22:24:42:	Rec.py : getAudioFromUri:4.50611114502e-05
+2015-10-02 22:24:42:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:24:42:	Rec.py : readAudioFromFile:0.0250198841095
+2015-10-02 22:24:42:	Rec.py : process completed:0.0251748561859
+2015-10-02 22:24:46:	segmented recording (215 rois found)
+2015-10-02 22:24:46:	Rec.py : init completed:6.41345977783e-05
+2015-10-02 22:24:46:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-08_02-20.flac is already in local storage.
+2015-10-02 22:24:46:	Rec.py : getAudioFromUri:3.48091125488e-05
+2015-10-02 22:24:46:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:24:46:	Rec.py : readAudioFromFile:0.350524902344
+2015-10-02 22:24:46:	Rec.py : process completed:0.350695133209
+2015-10-02 22:24:51:	segmented recording (293 rois found)
+2015-10-02 22:24:51:	Rec.py : init completed:5.69820404053e-05
+2015-10-02 22:24:51:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-01_00-40.flac is already in local storage.
+2015-10-02 22:24:51:	Rec.py : getAudioFromUri:3.40938568115e-05
+2015-10-02 22:24:51:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:24:51:	Rec.py : readAudioFromFile:0.777570009232
+2015-10-02 22:24:51:	Rec.py : process completed:0.77772808075
+2015-10-02 22:24:56:	segmented recording (939 rois found)
+2015-10-02 22:24:56:	Rec.py : init completed:5.48362731934e-05
+2015-10-02 22:24:56:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-06_05-30.flac is already in local storage.
+2015-10-02 22:24:56:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:24:56:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:24:56:	Rec.py : readAudioFromFile:0.395183086395
+2015-10-02 22:24:56:	Rec.py : process completed:0.395328044891
+2015-10-02 22:25:00:	segmented recording (299 rois found)
+2015-10-02 22:25:00:	Rec.py : init completed:5.41210174561e-05
+2015-10-02 22:25:00:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-03_15-10.flac is already in local storage.
+2015-10-02 22:25:00:	Rec.py : getAudioFromUri:3.40938568115e-05
+2015-10-02 22:25:00:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:25:00:	Rec.py : readAudioFromFile:0.024817943573
+2015-10-02 22:25:00:	Rec.py : process completed:0.024943113327
+2015-10-02 22:25:04:	segmented recording (405 rois found)
+2015-10-02 22:25:04:	Rec.py : init completed:5.60283660889e-05
+2015-10-02 22:25:04:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-25_17-20.flac is already in local storage.
+2015-10-02 22:25:04:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:25:04:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:25:04:	Rec.py : readAudioFromFile:0.0244390964508
+2015-10-02 22:25:04:	Rec.py : process completed:0.0245749950409
+2015-10-02 22:25:08:	segmented recording (282 rois found)
+2015-10-02 22:25:08:	Rec.py : init completed:5.60283660889e-05
+2015-10-02 22:25:08:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-23_09-00.flac is already in local storage.
+2015-10-02 22:25:08:	Rec.py : getAudioFromUri:3.60012054443e-05
+2015-10-02 22:25:08:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:25:08:	Rec.py : readAudioFromFile:0.0242309570312
+2015-10-02 22:25:08:	Rec.py : process completed:0.0243589878082
+2015-10-02 22:25:13:	segmented recording (186 rois found)
+2015-10-02 22:25:13:	Rec.py : init completed:5.29289245605e-05
+2015-10-02 22:25:13:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-09-26_22-30.flac is already in local storage.
+2015-10-02 22:25:13:	Rec.py : getAudioFromUri:3.31401824951e-05
+2015-10-02 22:25:13:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:25:13:	Rec.py : readAudioFromFile:0.0249190330505
+2015-10-02 22:25:13:	Rec.py : process completed:0.0250589847565
+2015-10-02 22:25:17:	segmented recording (422 rois found)
+2015-10-02 22:25:17:	Rec.py : init completed:5.41210174561e-05
+2015-10-02 22:25:17:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-09-27_20-50.flac is already in local storage.
+2015-10-02 22:25:17:	Rec.py : getAudioFromUri:3.40938568115e-05
+2015-10-02 22:25:17:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:25:17:	Rec.py : readAudioFromFile:0.0248849391937
+2015-10-02 22:25:17:	Rec.py : process completed:0.0250179767609
+2015-10-02 22:25:21:	segmented recording (1056 rois found)
+2015-10-02 22:25:21:	Rec.py : init completed:5.81741333008e-05
+2015-10-02 22:25:21:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-25_21-40.flac is already in local storage.
+2015-10-02 22:25:21:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:25:21:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:25:21:	Rec.py : readAudioFromFile:0.0252809524536
+2015-10-02 22:25:21:	Rec.py : process completed:0.0254168510437
+2015-10-02 22:25:25:	segmented recording (640 rois found)
+2015-10-02 22:25:25:	Rec.py : init completed:5.3882598877e-05
+2015-10-02 22:25:25:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-02_09-40.flac is already in local storage.
+2015-10-02 22:25:25:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:25:25:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:25:25:	Rec.py : readAudioFromFile:0.0238769054413
+2015-10-02 22:25:25:	Rec.py : process completed:0.0240120887756
+2015-10-02 22:25:29:	segmented recording (0 rois found)
+2015-10-02 22:25:29:	Rec.py : init completed:7.89165496826e-05
+2015-10-02 22:25:29:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-09-28_23-10.flac is already in local storage.
+2015-10-02 22:25:29:	Rec.py : getAudioFromUri:3.40938568115e-05
+2015-10-02 22:25:29:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:25:29:	Rec.py : readAudioFromFile:0.0247540473938
+2015-10-02 22:25:29:	Rec.py : process completed:0.0248889923096
+2015-10-02 22:25:33:	segmented recording (994 rois found)
+2015-10-02 22:25:33:	Rec.py : init completed:6.103515625e-05
+2015-10-02 22:25:33:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-07_11-30.flac is already in local storage.
+2015-10-02 22:25:33:	Rec.py : getAudioFromUri:3.21865081787e-05
+2015-10-02 22:25:33:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:25:33:	Rec.py : readAudioFromFile:0.0249638557434
+2015-10-02 22:25:33:	Rec.py : process completed:0.0250949859619
+2015-10-02 22:25:38:	segmented recording (402 rois found)
+2015-10-02 22:25:38:	Rec.py : init completed:5.41210174561e-05
+2015-10-02 22:25:38:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-23_03-50.flac is already in local storage.
+2015-10-02 22:25:38:	Rec.py : getAudioFromUri:4.41074371338e-05
+2015-10-02 22:25:38:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:25:38:	Rec.py : readAudioFromFile:0.579274177551
+2015-10-02 22:25:38:	Rec.py : process completed:0.579426050186
+2015-10-02 22:25:42:	segmented recording (324 rois found)
+2015-10-02 22:25:42:	Rec.py : init completed:5.31673431396e-05
+2015-10-02 22:25:42:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-24_20-40.flac is already in local storage.
+2015-10-02 22:25:42:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:25:42:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:25:42:	Rec.py : readAudioFromFile:0.0253071784973
+2015-10-02 22:25:42:	Rec.py : process completed:0.0254428386688
+2015-10-02 22:25:47:	segmented recording (243 rois found)
+2015-10-02 22:25:47:	Rec.py : init completed:5.31673431396e-05
+2015-10-02 22:25:47:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-06_23-10.flac is already in local storage.
+2015-10-02 22:25:47:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:25:47:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:25:47:	Rec.py : readAudioFromFile:0.0253028869629
+2015-10-02 22:25:47:	Rec.py : process completed:0.0254418849945
+2015-10-02 22:25:51:	segmented recording (0 rois found)
+2015-10-02 22:25:51:	Rec.py : init completed:8.51154327393e-05
+2015-10-02 22:25:51:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-03_00-00.flac is already in local storage.
+2015-10-02 22:25:51:	Rec.py : getAudioFromUri:3.88622283936e-05
+2015-10-02 22:25:51:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:25:51:	Rec.py : readAudioFromFile:0.584100961685
+2015-10-02 22:25:51:	Rec.py : process completed:0.584260940552
+2015-10-02 22:25:55:	segmented recording (539 rois found)
+2015-10-02 22:25:55:	Rec.py : init completed:5.10215759277e-05
+2015-10-02 22:25:55:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-02_04-50.flac is already in local storage.
+2015-10-02 22:25:55:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:25:56:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:25:56:	Rec.py : readAudioFromFile:0.625102996826
+2015-10-02 22:25:56:	Rec.py : process completed:0.625246047974
+2015-10-02 22:26:00:	segmented recording (671 rois found)
+2015-10-02 22:26:00:	Rec.py : init completed:6.50882720947e-05
+2015-10-02 22:26:00:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-02_20-40.flac is already in local storage.
+2015-10-02 22:26:00:	Rec.py : getAudioFromUri:3.50475311279e-05
+2015-10-02 22:26:00:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:26:00:	Rec.py : readAudioFromFile:0.0249969959259
+2015-10-02 22:26:00:	Rec.py : process completed:0.025130033493
+2015-10-02 22:26:04:	segmented recording (421 rois found)
+2015-10-02 22:26:04:	Rec.py : init completed:5.79357147217e-05
+2015-10-02 22:26:04:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-09-29_17-30.flac is already in local storage.
+2015-10-02 22:26:04:	Rec.py : getAudioFromUri:3.21865081787e-05
+2015-10-02 22:26:04:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:26:04:	Rec.py : readAudioFromFile:0.0248939990997
+2015-10-02 22:26:04:	Rec.py : process completed:0.0250310897827
+2015-10-02 22:26:09:	segmented recording (405 rois found)
+2015-10-02 22:26:09:	Rec.py : init completed:6.103515625e-05
+2015-10-02 22:26:09:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-03_19-20.flac is already in local storage.
+2015-10-02 22:26:09:	Rec.py : getAudioFromUri:4.60147857666e-05
+2015-10-02 22:26:09:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:26:09:	Rec.py : readAudioFromFile:0.0248908996582
+2015-10-02 22:26:09:	Rec.py : process completed:0.025041103363
+2015-10-02 22:26:13:	segmented recording (511 rois found)
+2015-10-02 22:26:13:	Rec.py : init completed:7.29560852051e-05
+2015-10-02 22:26:13:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-26_02-30.flac is already in local storage.
+2015-10-02 22:26:13:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:26:13:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:26:13:	Rec.py : readAudioFromFile:0.619308948517
+2015-10-02 22:26:13:	Rec.py : process completed:0.619467973709
+2015-10-02 22:26:17:	segmented recording (476 rois found)
+2015-10-02 22:26:17:	Rec.py : init completed:5.29289245605e-05
+2015-10-02 22:26:17:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-04_10-40.flac is already in local storage.
+2015-10-02 22:26:17:	Rec.py : getAudioFromUri:3.21865081787e-05
+2015-10-02 22:26:17:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:26:18:	Rec.py : readAudioFromFile:0.0256900787354
+2015-10-02 22:26:18:	Rec.py : process completed:0.0258419513702
+2015-10-02 22:26:22:	segmented recording (181 rois found)
+2015-10-02 22:26:22:	Rec.py : init completed:5.10215759277e-05
+2015-10-02 22:26:22:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-17_14-40.flac is already in local storage.
+2015-10-02 22:26:22:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:26:22:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:26:22:	Rec.py : readAudioFromFile:0.024393081665
+2015-10-02 22:26:22:	Rec.py : process completed:0.024523973465
+2015-10-02 22:26:26:	segmented recording (169 rois found)
+2015-10-02 22:26:26:	Rec.py : init completed:5.50746917725e-05
+2015-10-02 22:26:26:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-18_17-00.flac is already in local storage.
+2015-10-02 22:26:26:	Rec.py : getAudioFromUri:3.38554382324e-05
+2015-10-02 22:26:26:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:26:26:	Rec.py : readAudioFromFile:0.0244629383087
+2015-10-02 22:26:26:	Rec.py : process completed:0.0245897769928
+2015-10-02 22:26:30:	segmented recording (180 rois found)
+2015-10-02 22:26:30:	Rec.py : init completed:6.19888305664e-05
+2015-10-02 22:26:30:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-09-27_10-50.flac is already in local storage.
+2015-10-02 22:26:30:	Rec.py : getAudioFromUri:3.31401824951e-05
+2015-10-02 22:26:30:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:26:30:	Rec.py : readAudioFromFile:0.0248920917511
+2015-10-02 22:26:30:	Rec.py : process completed:0.0250370502472
+2015-10-02 22:26:34:	segmented recording (195 rois found)
+2015-10-02 22:26:34:	Rec.py : init completed:5.3882598877e-05
+2015-10-02 22:26:34:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-09_02-50.flac is already in local storage.
+2015-10-02 22:26:34:	Rec.py : getAudioFromUri:3.31401824951e-05
+2015-10-02 22:26:34:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:26:35:	Rec.py : readAudioFromFile:0.500861167908
+2015-10-02 22:26:35:	Rec.py : process completed:0.501017093658
+2015-10-02 22:26:39:	segmented recording (507 rois found)
+2015-10-02 22:26:39:	Rec.py : init completed:5.50746917725e-05
+2015-10-02 22:26:39:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-17_06-20.flac is already in local storage.
+2015-10-02 22:26:39:	Rec.py : getAudioFromUri:4.38690185547e-05
+2015-10-02 22:26:39:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:26:39:	Rec.py : readAudioFromFile:0.0254368782043
+2015-10-02 22:26:39:	Rec.py : process completed:0.025591135025
+2015-10-02 22:26:43:	segmented recording (659 rois found)
+2015-10-02 22:26:43:	Rec.py : init completed:5.60283660889e-05
+2015-10-02 22:26:43:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-02_04-00.flac is already in local storage.
+2015-10-02 22:26:43:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:26:43:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:26:43:	Rec.py : readAudioFromFile:0.377618074417
+2015-10-02 22:26:43:	Rec.py : process completed:0.377764940262
+2015-10-02 22:26:47:	segmented recording (308 rois found)
+2015-10-02 22:26:47:	Rec.py : init completed:5.60283660889e-05
+2015-10-02 22:26:47:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-03_13-50.flac is already in local storage.
+2015-10-02 22:26:47:	Rec.py : getAudioFromUri:3.38554382324e-05
+2015-10-02 22:26:47:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:26:47:	Rec.py : readAudioFromFile:0.0241949558258
+2015-10-02 22:26:47:	Rec.py : process completed:0.0243320465088
+2015-10-02 22:26:52:	segmented recording (448 rois found)
+2015-10-02 22:26:52:	Rec.py : init completed:5.79357147217e-05
+2015-10-02 22:26:52:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-07_17-30.flac is already in local storage.
+2015-10-02 22:26:52:	Rec.py : getAudioFromUri:3.38554382324e-05
+2015-10-02 22:26:52:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:26:52:	Rec.py : readAudioFromFile:0.0247461795807
+2015-10-02 22:26:52:	Rec.py : process completed:0.0370271205902
+2015-10-02 22:26:56:	segmented recording (137 rois found)
+2015-10-02 22:26:56:	Rec.py : init completed:6.19888305664e-05
+2015-10-02 22:26:56:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-01_02-50.flac is already in local storage.
+2015-10-02 22:26:56:	Rec.py : getAudioFromUri:3.38554382324e-05
+2015-10-02 22:26:56:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:26:56:	Rec.py : readAudioFromFile:0.507993936539
+2015-10-02 22:26:56:	Rec.py : process completed:0.508144855499
+2015-10-02 22:27:00:	segmented recording (904 rois found)
+2015-10-02 22:27:00:	Rec.py : init completed:5.41210174561e-05
+2015-10-02 22:27:00:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-05_02-30.flac is already in local storage.
+2015-10-02 22:27:00:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:27:01:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:27:01:	Rec.py : readAudioFromFile:0.464823961258
+2015-10-02 22:27:01:	Rec.py : process completed:0.464968919754
+2015-10-02 22:27:05:	segmented recording (779 rois found)
+2015-10-02 22:27:05:	Rec.py : init completed:5.50746917725e-05
+2015-10-02 22:27:05:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-09-30_09-50.flac is already in local storage.
+2015-10-02 22:27:05:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:27:05:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:27:05:	Rec.py : readAudioFromFile:0.025593996048
+2015-10-02 22:27:05:	Rec.py : process completed:0.0257248878479
+2015-10-02 22:27:09:	segmented recording (0 rois found)
+2015-10-02 22:27:09:	Rec.py : init completed:7.39097595215e-05
+2015-10-02 22:27:09:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-15_00-10.flac is already in local storage.
+2015-10-02 22:27:09:	Rec.py : getAudioFromUri:4.88758087158e-05
+2015-10-02 22:27:09:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:27:10:	Rec.py : readAudioFromFile:1.10624599457
+2015-10-02 22:27:10:	Rec.py : process completed:1.10641503334
+2015-10-02 22:27:15:	segmented recording (604 rois found)
+2015-10-02 22:27:15:	Rec.py : init completed:5.60283660889e-05
+2015-10-02 22:27:15:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-18_11-10.flac is already in local storage.
+2015-10-02 22:27:15:	Rec.py : getAudioFromUri:3.38554382324e-05
+2015-10-02 22:27:15:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:27:15:	Rec.py : readAudioFromFile:0.0244510173798
+2015-10-02 22:27:15:	Rec.py : process completed:0.0245840549469
+2015-10-02 22:27:19:	segmented recording (154 rois found)
+2015-10-02 22:27:19:	Rec.py : init completed:5.29289245605e-05
+2015-10-02 22:27:19:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-03_19-00.flac is already in local storage.
+2015-10-02 22:27:19:	Rec.py : getAudioFromUri:3.31401824951e-05
+2015-10-02 22:27:19:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:27:19:	Rec.py : readAudioFromFile:0.0246999263763
+2015-10-02 22:27:19:	Rec.py : process completed:0.0248410701752
+2015-10-02 22:27:23:	segmented recording (605 rois found)
+2015-10-02 22:27:23:	Rec.py : init completed:5.41210174561e-05
+2015-10-02 22:27:23:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-01_12-50.flac is already in local storage.
+2015-10-02 22:27:23:	Rec.py : getAudioFromUri:3.31401824951e-05
+2015-10-02 22:27:23:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:27:23:	Rec.py : readAudioFromFile:0.0251309871674
+2015-10-02 22:27:23:	Rec.py : process completed:0.0252809524536
+2015-10-02 22:27:27:	segmented recording (292 rois found)
+2015-10-02 22:27:27:	Rec.py : init completed:5.50746917725e-05
+2015-10-02 22:27:27:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-26_16-30.flac is already in local storage.
+2015-10-02 22:27:27:	Rec.py : getAudioFromUri:3.40938568115e-05
+2015-10-02 22:27:27:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:27:27:	Rec.py : readAudioFromFile:0.0252830982208
+2015-10-02 22:27:27:	Rec.py : process completed:0.0254321098328
+2015-10-02 22:27:31:	segmented recording (109 rois found)
+2015-10-02 22:27:31:	Rec.py : init completed:5.29289245605e-05
+2015-10-02 22:27:31:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-02_05-50.flac is already in local storage.
+2015-10-02 22:27:31:	Rec.py : getAudioFromUri:2.78949737549e-05
+2015-10-02 22:27:31:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:27:31:	Rec.py : readAudioFromFile:0.0236880779266
+2015-10-02 22:27:31:	Rec.py : process completed:0.0238039493561
+2015-10-02 22:27:36:	segmented recording (264 rois found)
+2015-10-02 22:27:36:	Rec.py : init completed:6.00814819336e-05
+2015-10-02 22:27:36:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-15_17-10.flac is already in local storage.
+2015-10-02 22:27:36:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:27:36:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:27:36:	Rec.py : readAudioFromFile:0.0251219272614
+2015-10-02 22:27:36:	Rec.py : process completed:0.0256009101868
+2015-10-02 22:27:40:	segmented recording (852 rois found)
+2015-10-02 22:27:40:	Rec.py : init completed:5.60283660889e-05
+2015-10-02 22:27:40:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-25_04-30.flac is already in local storage.
+2015-10-02 22:27:40:	Rec.py : getAudioFromUri:3.31401824951e-05
+2015-10-02 22:27:40:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:27:40:	Rec.py : readAudioFromFile:0.0261039733887
+2015-10-02 22:27:40:	Rec.py : process completed:0.0262439250946
+2015-10-02 22:27:44:	segmented recording (1044 rois found)
+2015-10-02 22:27:44:	Rec.py : init completed:0.116493940353
+2015-10-02 22:27:44:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-21_14-10.flac is already in local storage.
+2015-10-02 22:27:44:	Rec.py : getAudioFromUri:4.48226928711e-05
+2015-10-02 22:27:44:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:27:44:	Rec.py : readAudioFromFile:0.0251450538635
+2015-10-02 22:27:44:	Rec.py : process completed:0.0252978801727
+2015-10-02 22:27:49:	segmented recording (33 rois found)
+2015-10-02 22:27:49:	Rec.py : init completed:0.000112056732178
+2015-10-02 22:27:49:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-03_18-30.flac is already in local storage.
+2015-10-02 22:27:49:	Rec.py : getAudioFromUri:3.71932983398e-05
+2015-10-02 22:27:49:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:27:49:	Rec.py : readAudioFromFile:0.025102853775
+2015-10-02 22:27:49:	Rec.py : process completed:0.0252420902252
+2015-10-02 22:27:53:	segmented recording (517 rois found)
+2015-10-02 22:27:53:	Rec.py : init completed:5.60283660889e-05
+2015-10-02 22:27:53:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-01-31_10-20.flac is already in local storage.
+2015-10-02 22:27:53:	Rec.py : getAudioFromUri:3.31401824951e-05
+2015-10-02 22:27:53:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:27:53:	Rec.py : readAudioFromFile:0.0243740081787
+2015-10-02 22:27:53:	Rec.py : process completed:0.0245039463043
+2015-10-02 22:27:57:	segmented recording (159 rois found)
+2015-10-02 22:27:57:	Rec.py : init completed:6.19888305664e-05
+2015-10-02 22:27:57:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-03_18-00.flac is already in local storage.
+2015-10-02 22:27:57:	Rec.py : getAudioFromUri:3.38554382324e-05
+2015-10-02 22:27:57:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:27:57:	Rec.py : readAudioFromFile:0.0246958732605
+2015-10-02 22:27:57:	Rec.py : process completed:0.0311529636383
+2015-10-02 22:28:01:	segmented recording (466 rois found)
+2015-10-02 22:28:01:	Rec.py : init completed:0.0631279945374
+2015-10-02 22:28:01:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-07_23-10.flac is already in local storage.
+2015-10-02 22:28:01:	Rec.py : getAudioFromUri:4.60147857666e-05
+2015-10-02 22:28:01:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:28:01:	Rec.py : readAudioFromFile:0.0235819816589
+2015-10-02 22:28:01:	Rec.py : process completed:0.0237169265747
+2015-10-02 22:28:05:	segmented recording (88 rois found)
+2015-10-02 22:28:05:	Rec.py : init completed:6.38961791992e-05
+2015-10-02 22:28:05:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-02_06-20.flac is already in local storage.
+2015-10-02 22:28:05:	Rec.py : getAudioFromUri:3.50475311279e-05
+2015-10-02 22:28:05:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:28:05:	Rec.py : readAudioFromFile:0.024729013443
+2015-10-02 22:28:05:	Rec.py : process completed:0.0451231002808
+2015-10-02 22:28:10:	segmented recording (373 rois found)
+2015-10-02 22:28:10:	Rec.py : init completed:6.38961791992e-05
+2015-10-02 22:28:10:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-01_20-20.flac is already in local storage.
+2015-10-02 22:28:10:	Rec.py : getAudioFromUri:3.31401824951e-05
+2015-10-02 22:28:10:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:28:10:	Rec.py : readAudioFromFile:0.0477170944214
+2015-10-02 22:28:10:	Rec.py : process completed:0.047868013382
+2015-10-02 22:28:14:	segmented recording (1004 rois found)
+2015-10-02 22:28:14:	Rec.py : init completed:7.48634338379e-05
+2015-10-02 22:28:14:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-13_08-30.flac is already in local storage.
+2015-10-02 22:28:14:	Rec.py : getAudioFromUri:4.10079956055e-05
+2015-10-02 22:28:14:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:28:14:	Rec.py : readAudioFromFile:0.0246369838715
+2015-10-02 22:28:14:	Rec.py : process completed:0.0247991085052
+2015-10-02 22:28:18:	segmented recording (229 rois found)
+2015-10-02 22:28:18:	Rec.py : init completed:5.91278076172e-05
+2015-10-02 22:28:18:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-14_15-40.flac is already in local storage.
+2015-10-02 22:28:18:	Rec.py : getAudioFromUri:3.40938568115e-05
+2015-10-02 22:28:18:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:28:18:	Rec.py : readAudioFromFile:0.0253829956055
+2015-10-02 22:28:18:	Rec.py : process completed:0.0255069732666
+2015-10-02 22:28:22:	segmented recording (76 rois found)
+2015-10-02 22:28:22:	Rec.py : init completed:6.50882720947e-05
+2015-10-02 22:28:22:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-25_22-50.flac is already in local storage.
+2015-10-02 22:28:22:	Rec.py : getAudioFromUri:3.38554382324e-05
+2015-10-02 22:28:22:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:28:22:	Rec.py : readAudioFromFile:0.0248260498047
+2015-10-02 22:28:22:	Rec.py : process completed:0.0249490737915
+2015-10-02 22:28:26:	segmented recording (244 rois found)
+2015-10-02 22:28:26:	Rec.py : init completed:7.10487365723e-05
+2015-10-02 22:28:26:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-10_18-40.flac is already in local storage.
+2015-10-02 22:28:26:	Rec.py : getAudioFromUri:3.50475311279e-05
+2015-10-02 22:28:26:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:28:26:	Rec.py : readAudioFromFile:0.0247640609741
+2015-10-02 22:28:26:	Rec.py : process completed:0.0284399986267
+2015-10-02 22:28:31:	segmented recording (566 rois found)
+2015-10-02 22:28:31:	Rec.py : init completed:6.31809234619e-05
+2015-10-02 22:28:31:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-16_04-50.flac is already in local storage.
+2015-10-02 22:28:31:	Rec.py : getAudioFromUri:3.31401824951e-05
+2015-10-02 22:28:31:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:28:31:	Rec.py : readAudioFromFile:0.364083051682
+2015-10-02 22:28:31:	Rec.py : process completed:0.364245176315
+2015-10-02 22:28:35:	segmented recording (683 rois found)
+2015-10-02 22:28:35:	Rec.py : init completed:5.81741333008e-05
+2015-10-02 22:28:35:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-12_01-00.flac is already in local storage.
+2015-10-02 22:28:35:	Rec.py : getAudioFromUri:5.10215759277e-05
+2015-10-02 22:28:35:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:28:36:	Rec.py : readAudioFromFile:0.610208034515
+2015-10-02 22:28:36:	Rec.py : process completed:0.610397100449
+2015-10-02 22:28:40:	segmented recording (706 rois found)
+2015-10-02 22:28:40:	Rec.py : init completed:0.0802249908447
+2015-10-02 22:28:40:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-16_01-00.flac is already in local storage.
+2015-10-02 22:28:40:	Rec.py : getAudioFromUri:5.29289245605e-05
+2015-10-02 22:28:40:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:28:41:	Rec.py : readAudioFromFile:0.522638082504
+2015-10-02 22:28:41:	Rec.py : process completed:0.522805929184
+2015-10-02 22:28:45:	segmented recording (696 rois found)
+2015-10-02 22:28:45:	Rec.py : init completed:0.025496006012
+2015-10-02 22:28:45:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-01_04-10.flac is already in local storage.
+2015-10-02 22:28:45:	Rec.py : getAudioFromUri:5.88893890381e-05
+2015-10-02 22:28:45:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:28:45:	Rec.py : readAudioFromFile:0.0476479530334
+2015-10-02 22:28:45:	Rec.py : process completed:0.0478088855743
+2015-10-02 22:28:49:	segmented recording (587 rois found)
+2015-10-02 22:28:49:	Rec.py : init completed:6.103515625e-05
+2015-10-02 22:28:49:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-16_21-30.flac is already in local storage.
+2015-10-02 22:28:49:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:28:49:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:28:49:	Rec.py : readAudioFromFile:0.0249152183533
+2015-10-02 22:28:49:	Rec.py : process completed:0.0250408649445
+2015-10-02 22:28:53:	segmented recording (494 rois found)
+2015-10-02 22:28:53:	Rec.py : init completed:6.38961791992e-05
+2015-10-02 22:28:53:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-07_20-10.flac is already in local storage.
+2015-10-02 22:28:53:	Rec.py : getAudioFromUri:3.40938568115e-05
+2015-10-02 22:28:53:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:28:53:	Rec.py : readAudioFromFile:0.0243849754333
+2015-10-02 22:28:53:	Rec.py : process completed:0.0245430469513
+2015-10-02 22:28:57:	segmented recording (365 rois found)
+2015-10-02 22:28:57:	Rec.py : init completed:5.69820404053e-05
+2015-10-02 22:28:57:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-20_15-20.flac is already in local storage.
+2015-10-02 22:28:57:	Rec.py : getAudioFromUri:3.38554382324e-05
+2015-10-02 22:28:57:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:28:57:	Rec.py : readAudioFromFile:0.0254399776459
+2015-10-02 22:28:57:	Rec.py : process completed:0.0405349731445
+2015-10-02 22:29:02:	segmented recording (98 rois found)
+2015-10-02 22:29:02:	Rec.py : init completed:6.5803527832e-05
+2015-10-02 22:29:02:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-01-30_14-50.flac is already in local storage.
+2015-10-02 22:29:02:	Rec.py : getAudioFromUri:3.79085540771e-05
+2015-10-02 22:29:02:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:29:02:	Rec.py : readAudioFromFile:0.024295091629
+2015-10-02 22:29:02:	Rec.py : process completed:0.0244431495667
+2015-10-02 22:29:06:	segmented recording (410 rois found)
+2015-10-02 22:29:06:	Rec.py : init completed:0.000103950500488
+2015-10-02 22:29:06:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-11_21-00.flac is already in local storage.
+2015-10-02 22:29:06:	Rec.py : getAudioFromUri:2.90870666504e-05
+2015-10-02 22:29:06:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:29:06:	Rec.py : readAudioFromFile:0.0244150161743
+2015-10-02 22:29:06:	Rec.py : process completed:0.0245609283447
+2015-10-02 22:29:10:	segmented recording (463 rois found)
+2015-10-02 22:29:10:	Rec.py : init completed:7.10487365723e-05
+2015-10-02 22:29:10:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-27_08-20.flac is already in local storage.
+2015-10-02 22:29:10:	Rec.py : getAudioFromUri:3.60012054443e-05
+2015-10-02 22:29:10:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:29:10:	Rec.py : readAudioFromFile:0.0256659984589
+2015-10-02 22:29:10:	Rec.py : process completed:0.025848865509
+2015-10-02 22:29:14:	segmented recording (335 rois found)
+2015-10-02 22:29:14:	Rec.py : init completed:6.29425048828e-05
+2015-10-02 22:29:14:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-02_21-40.flac is already in local storage.
+2015-10-02 22:29:14:	Rec.py : getAudioFromUri:3.31401824951e-05
+2015-10-02 22:29:14:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:29:14:	Rec.py : readAudioFromFile:0.0251460075378
+2015-10-02 22:29:14:	Rec.py : process completed:0.0252850055695
+2015-10-02 22:29:18:	segmented recording (63 rois found)
+2015-10-02 22:29:18:	Rec.py : init completed:6.48498535156e-05
+2015-10-02 22:29:18:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-18_03-20.flac is already in local storage.
+2015-10-02 22:29:18:	Rec.py : getAudioFromUri:3.79085540771e-05
+2015-10-02 22:29:18:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:29:19:	Rec.py : readAudioFromFile:0.620718955994
+2015-10-02 22:29:19:	Rec.py : process completed:0.620875835419
+2015-10-02 22:29:23:	segmented recording (432 rois found)
+2015-10-02 22:29:23:	Rec.py : init completed:5.69820404053e-05
+2015-10-02 22:29:23:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-19_16-40.flac is already in local storage.
+2015-10-02 22:29:23:	Rec.py : getAudioFromUri:3.50475311279e-05
+2015-10-02 22:29:23:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:29:23:	Rec.py : readAudioFromFile:0.0244970321655
+2015-10-02 22:29:23:	Rec.py : process completed:0.0246260166168
+2015-10-02 22:29:27:	segmented recording (95 rois found)
+2015-10-02 22:29:27:	Rec.py : init completed:6.19888305664e-05
+2015-10-02 22:29:27:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-12_22-10.flac is already in local storage.
+2015-10-02 22:29:27:	Rec.py : getAudioFromUri:3.31401824951e-05
+2015-10-02 22:29:27:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:29:27:	Rec.py : readAudioFromFile:0.0246160030365
+2015-10-02 22:29:27:	Rec.py : process completed:0.0247490406036
+2015-10-02 22:29:31:	segmented recording (350 rois found)
+2015-10-02 22:29:31:	Rec.py : init completed:5.91278076172e-05
+2015-10-02 22:29:31:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-21_11-40.flac is already in local storage.
+2015-10-02 22:29:31:	Rec.py : getAudioFromUri:3.38554382324e-05
+2015-10-02 22:29:32:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:29:32:	Rec.py : readAudioFromFile:0.129242897034
+2015-10-02 22:29:32:	Rec.py : process completed:0.129410028458
+2015-10-02 22:29:36:	segmented recording (147 rois found)
+2015-10-02 22:29:36:	Rec.py : init completed:6.19888305664e-05
+2015-10-02 22:29:36:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-16_01-30.flac is already in local storage.
+2015-10-02 22:29:36:	Rec.py : getAudioFromUri:3.48091125488e-05
+2015-10-02 22:29:36:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:29:36:	Rec.py : readAudioFromFile:0.511833906174
+2015-10-02 22:29:36:	Rec.py : process completed:0.511993169785
+2015-10-02 22:29:40:	segmented recording (400 rois found)
+2015-10-02 22:29:40:	Rec.py : init completed:5.69820404053e-05
+2015-10-02 22:29:40:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-09_00-20.flac is already in local storage.
+2015-10-02 22:29:40:	Rec.py : getAudioFromUri:3.31401824951e-05
+2015-10-02 22:29:40:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:29:41:	Rec.py : readAudioFromFile:0.664294958115
+2015-10-02 22:29:41:	Rec.py : process completed:0.664520978928
+2015-10-02 22:29:45:	segmented recording (108 rois found)
+2015-10-02 22:29:45:	Rec.py : init completed:7.20024108887e-05
+2015-10-02 22:29:45:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-01-30_19-50.flac is already in local storage.
+2015-10-02 22:29:45:	Rec.py : getAudioFromUri:4.00543212891e-05
+2015-10-02 22:29:45:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:29:45:	Rec.py : readAudioFromFile:0.0258369445801
+2015-10-02 22:29:45:	Rec.py : process completed:0.0260028839111
+2015-10-02 22:29:50:	segmented recording (535 rois found)
+2015-10-02 22:29:50:	Rec.py : init completed:6.38961791992e-05
+2015-10-02 22:29:50:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-01-30_03-40.flac is already in local storage.
+2015-10-02 22:29:50:	Rec.py : getAudioFromUri:3.31401824951e-05
+2015-10-02 22:29:50:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:29:50:	Rec.py : readAudioFromFile:0.600645065308
+2015-10-02 22:29:50:	Rec.py : process completed:0.60079407692
+2015-10-02 22:29:55:	segmented recording (0 rois found)
+2015-10-02 22:29:55:	Rec.py : init completed:8.70227813721e-05
+2015-10-02 22:29:55:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-24_15-50.flac is already in local storage.
+2015-10-02 22:29:55:	Rec.py : getAudioFromUri:4.31537628174e-05
+2015-10-02 22:29:55:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:29:55:	Rec.py : readAudioFromFile:0.0246829986572
+2015-10-02 22:29:55:	Rec.py : process completed:0.0248620510101
+2015-10-02 22:29:59:	segmented recording (137 rois found)
+2015-10-02 22:29:59:	Rec.py : init completed:6.48498535156e-05
+2015-10-02 22:29:59:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-07_19-30.flac is already in local storage.
+2015-10-02 22:29:59:	Rec.py : getAudioFromUri:3.60012054443e-05
+2015-10-02 22:29:59:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:29:59:	Rec.py : readAudioFromFile:0.0250360965729
+2015-10-02 22:29:59:	Rec.py : process completed:0.0251710414886
+2015-10-02 22:30:03:	segmented recording (436 rois found)
+2015-10-02 22:30:03:	Rec.py : init completed:6.103515625e-05
+2015-10-02 22:30:03:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-08_16-30.flac is already in local storage.
+2015-10-02 22:30:03:	Rec.py : getAudioFromUri:3.31401824951e-05
+2015-10-02 22:30:03:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:30:03:	Rec.py : readAudioFromFile:0.0239050388336
+2015-10-02 22:30:03:	Rec.py : process completed:0.0240519046783
+2015-10-02 22:30:07:	segmented recording (70 rois found)
+2015-10-02 22:30:07:	Rec.py : init completed:0.000103950500488
+2015-10-02 22:30:07:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-11_01-20.flac is already in local storage.
+2015-10-02 22:30:07:	Rec.py : getAudioFromUri:6.91413879395e-05
+2015-10-02 22:30:07:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:30:08:	Rec.py : readAudioFromFile:0.447757959366
+2015-10-02 22:30:08:	Rec.py : process completed:0.44794011116
+2015-10-02 22:30:12:	segmented recording (579 rois found)
+2015-10-02 22:30:12:	Rec.py : init completed:5.79357147217e-05
+2015-10-02 22:30:12:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-18_13-40.flac is already in local storage.
+2015-10-02 22:30:12:	Rec.py : getAudioFromUri:3.21865081787e-05
+2015-10-02 22:30:12:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:30:12:	Rec.py : readAudioFromFile:0.0262930393219
+2015-10-02 22:30:12:	Rec.py : process completed:0.0264501571655
+2015-10-02 22:30:16:	segmented recording (41 rois found)
+2015-10-02 22:30:16:	Rec.py : init completed:6.29425048828e-05
+2015-10-02 22:30:16:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-09-30_21-40.flac is already in local storage.
+2015-10-02 22:30:16:	Rec.py : getAudioFromUri:3.60012054443e-05
+2015-10-02 22:30:16:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:30:16:	Rec.py : readAudioFromFile:0.0255739688873
+2015-10-02 22:30:16:	Rec.py : process completed:0.0257449150085
+2015-10-02 22:30:20:	segmented recording (902 rois found)
+2015-10-02 22:30:20:	Rec.py : init completed:6.48498535156e-05
+2015-10-02 22:30:20:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-05_07-30.flac is already in local storage.
+2015-10-02 22:30:20:	Rec.py : getAudioFromUri:3.40938568115e-05
+2015-10-02 22:30:20:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:30:20:	Rec.py : readAudioFromFile:0.0252778530121
+2015-10-02 22:30:20:	Rec.py : process completed:0.0254318714142
+2015-10-02 22:30:24:	segmented recording (246 rois found)
+2015-10-02 22:30:24:	Rec.py : init completed:6.07967376709e-05
+2015-10-02 22:30:24:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-20_08-10.flac is already in local storage.
+2015-10-02 22:30:24:	Rec.py : getAudioFromUri:3.40938568115e-05
+2015-10-02 22:30:24:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:30:24:	Rec.py : readAudioFromFile:0.0254399776459
+2015-10-02 22:30:24:	Rec.py : process completed:0.0255861282349
+2015-10-02 22:30:29:	segmented recording (211 rois found)
+2015-10-02 22:30:29:	Rec.py : init completed:5.79357147217e-05
+2015-10-02 22:30:29:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-09-29_07-20.flac is already in local storage.
+2015-10-02 22:30:29:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:30:29:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:30:29:	Rec.py : readAudioFromFile:0.0255949497223
+2015-10-02 22:30:29:	Rec.py : process completed:0.0257589817047
+2015-10-02 22:30:33:	segmented recording (224 rois found)
+2015-10-02 22:30:33:	Rec.py : init completed:6.60419464111e-05
+2015-10-02 22:30:33:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-01-31_05-30.flac is already in local storage.
+2015-10-02 22:30:33:	Rec.py : getAudioFromUri:3.50475311279e-05
+2015-10-02 22:30:33:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:30:33:	Rec.py : readAudioFromFile:0.0251338481903
+2015-10-02 22:30:33:	Rec.py : process completed:0.0253050327301
+2015-10-02 22:30:37:	segmented recording (528 rois found)
+2015-10-02 22:30:37:	Rec.py : init completed:5.3882598877e-05
+2015-10-02 22:30:37:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-09_20-20.flac is already in local storage.
+2015-10-02 22:30:37:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:30:37:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:30:37:	Rec.py : readAudioFromFile:0.0242841243744
+2015-10-02 22:30:37:	Rec.py : process completed:0.0244078636169
+2015-10-02 22:30:41:	segmented recording (303 rois found)
+2015-10-02 22:30:41:	Rec.py : init completed:5.79357147217e-05
+2015-10-02 22:30:41:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-18_19-10.flac is already in local storage.
+2015-10-02 22:30:41:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:30:41:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:30:41:	Rec.py : readAudioFromFile:0.0246119499207
+2015-10-02 22:30:41:	Rec.py : process completed:0.0247540473938
+2015-10-02 22:30:45:	segmented recording (574 rois found)
+2015-10-02 22:30:45:	Rec.py : init completed:5.69820404053e-05
+2015-10-02 22:30:45:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-07_14-00.flac is already in local storage.
+2015-10-02 22:30:45:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:30:45:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:30:45:	Rec.py : readAudioFromFile:0.0248990058899
+2015-10-02 22:30:45:	Rec.py : process completed:0.0250489711761
+2015-10-02 22:30:49:	segmented recording (281 rois found)
+2015-10-02 22:30:49:	Rec.py : init completed:5.60283660889e-05
+2015-10-02 22:30:49:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-16_00-40.flac is already in local storage.
+2015-10-02 22:30:49:	Rec.py : getAudioFromUri:3.38554382324e-05
+2015-10-02 22:30:50:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:30:50:	Rec.py : readAudioFromFile:0.57409787178
+2015-10-02 22:30:50:	Rec.py : process completed:0.574248075485
+2015-10-02 22:30:54:	segmented recording (633 rois found)
+2015-10-02 22:30:54:	Rec.py : init completed:5.60283660889e-05
+2015-10-02 22:30:54:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-09-27_16-50.flac is already in local storage.
+2015-10-02 22:30:54:	Rec.py : getAudioFromUri:3.31401824951e-05
+2015-10-02 22:30:54:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:30:54:	Rec.py : readAudioFromFile:0.0252158641815
+2015-10-02 22:30:54:	Rec.py : process completed:0.0253429412842
+2015-10-02 22:30:58:	segmented recording (370 rois found)
+2015-10-02 22:30:58:	Rec.py : init completed:5.72204589844e-05
+2015-10-02 22:30:58:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-26_15-00.flac is already in local storage.
+2015-10-02 22:30:58:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:30:58:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:30:58:	Rec.py : readAudioFromFile:0.0255839824677
+2015-10-02 22:30:58:	Rec.py : process completed:0.0257179737091
+2015-10-02 22:31:02:	segmented recording (71 rois found)
+2015-10-02 22:31:02:	Rec.py : init completed:6.38961791992e-05
+2015-10-02 22:31:02:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-07_07-00.flac is already in local storage.
+2015-10-02 22:31:02:	Rec.py : getAudioFromUri:3.60012054443e-05
+2015-10-02 22:31:02:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:31:02:	Rec.py : readAudioFromFile:0.0251641273499
+2015-10-02 22:31:03:	Rec.py : process completed:0.0409531593323
+2015-10-02 22:31:07:	segmented recording (800 rois found)
+2015-10-02 22:31:07:	Rec.py : init completed:5.91278076172e-05
+2015-10-02 22:31:07:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-03_07-10.flac is already in local storage.
+2015-10-02 22:31:07:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:31:07:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:31:07:	Rec.py : readAudioFromFile:0.0245089530945
+2015-10-02 22:31:07:	Rec.py : process completed:0.0246410369873
+2015-10-02 22:31:11:	segmented recording (214 rois found)
+2015-10-02 22:31:11:	Rec.py : init completed:5.50746917725e-05
+2015-10-02 22:31:11:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-09-27_12-20.flac is already in local storage.
+2015-10-02 22:31:11:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:31:11:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:31:11:	Rec.py : readAudioFromFile:0.0247251987457
+2015-10-02 22:31:11:	Rec.py : process completed:0.0248789787292
+2015-10-02 22:31:15:	segmented recording (222 rois found)
+2015-10-02 22:31:15:	Rec.py : init completed:5.69820404053e-05
+2015-10-02 22:31:15:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-03_04-00.flac is already in local storage.
+2015-10-02 22:31:15:	Rec.py : getAudioFromUri:3.50475311279e-05
+2015-10-02 22:31:15:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:31:15:	Rec.py : readAudioFromFile:0.0240321159363
+2015-10-02 22:31:15:	Rec.py : process completed:0.0241549015045
+2015-10-02 22:31:19:	segmented recording (553 rois found)
+2015-10-02 22:31:19:	Rec.py : init completed:8.39233398438e-05
+2015-10-02 22:31:19:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-25_13-10.flac is already in local storage.
+2015-10-02 22:31:19:	Rec.py : getAudioFromUri:3.40938568115e-05
+2015-10-02 22:31:19:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:31:19:	Rec.py : readAudioFromFile:0.0246539115906
+2015-10-02 22:31:19:	Rec.py : process completed:0.0247910022736
+2015-10-02 22:31:23:	segmented recording (84 rois found)
+2015-10-02 22:31:23:	Rec.py : init completed:5.41210174561e-05
+2015-10-02 22:31:23:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-04_12-00.flac is already in local storage.
+2015-10-02 22:31:23:	Rec.py : getAudioFromUri:3.40938568115e-05
+2015-10-02 22:31:23:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:31:23:	Rec.py : readAudioFromFile:0.0250339508057
+2015-10-02 22:31:23:	Rec.py : process completed:0.0251610279083
+2015-10-02 22:31:27:	segmented recording (172 rois found)
+2015-10-02 22:31:27:	Rec.py : init completed:6.103515625e-05
+2015-10-02 22:31:27:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-22_16-40.flac is already in local storage.
+2015-10-02 22:31:27:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:31:27:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:31:27:	Rec.py : readAudioFromFile:0.0246410369873
+2015-10-02 22:31:27:	Rec.py : process completed:0.0247700214386
+2015-10-02 22:31:32:	segmented recording (318 rois found)
+2015-10-02 22:31:32:	Rec.py : init completed:6.103515625e-05
+2015-10-02 22:31:32:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-01_12-20.flac is already in local storage.
+2015-10-02 22:31:32:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:31:32:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:31:32:	Rec.py : readAudioFromFile:0.0246520042419
+2015-10-02 22:31:32:	Rec.py : process completed:0.0247800350189
+2015-10-02 22:31:36:	segmented recording (216 rois found)
+2015-10-02 22:31:36:	Rec.py : init completed:6.41345977783e-05
+2015-10-02 22:31:36:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-16_13-30.flac is already in local storage.
+2015-10-02 22:31:36:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:31:36:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:31:36:	Rec.py : readAudioFromFile:0.0252120494843
+2015-10-02 22:31:36:	Rec.py : process completed:0.0404870510101
+2015-10-02 22:31:40:	segmented recording (246 rois found)
+2015-10-02 22:31:40:	Rec.py : init completed:5.72204589844e-05
+2015-10-02 22:31:40:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-04_10-20.flac is already in local storage.
+2015-10-02 22:31:40:	Rec.py : getAudioFromUri:3.50475311279e-05
+2015-10-02 22:31:40:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:31:40:	Rec.py : readAudioFromFile:0.0251710414886
+2015-10-02 22:31:40:	Rec.py : process completed:0.0253069400787
+2015-10-02 22:31:44:	segmented recording (167 rois found)
+2015-10-02 22:31:44:	Rec.py : init completed:6.19888305664e-05
+2015-10-02 22:31:44:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-17_08-20.flac is already in local storage.
+2015-10-02 22:31:44:	Rec.py : getAudioFromUri:3.40938568115e-05
+2015-10-02 22:31:44:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:31:44:	Rec.py : readAudioFromFile:0.0258839130402
+2015-10-02 22:31:44:	Rec.py : process completed:0.0260469913483
+2015-10-02 22:31:48:	segmented recording (263 rois found)
+2015-10-02 22:31:48:	Rec.py : init completed:5.79357147217e-05
+2015-10-02 22:31:48:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-01-30_07-10.flac is already in local storage.
+2015-10-02 22:31:48:	Rec.py : getAudioFromUri:3.40938568115e-05
+2015-10-02 22:31:48:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:31:48:	Rec.py : readAudioFromFile:0.0250310897827
+2015-10-02 22:31:48:	Rec.py : process completed:0.0251579284668
+2015-10-02 22:31:52:	segmented recording (345 rois found)
+2015-10-02 22:31:52:	Rec.py : init completed:6.29425048828e-05
+2015-10-02 22:31:52:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-16_03-30.flac is already in local storage.
+2015-10-02 22:31:52:	Rec.py : getAudioFromUri:3.40938568115e-05
+2015-10-02 22:31:53:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:31:53:	Rec.py : readAudioFromFile:0.576756954193
+2015-10-02 22:31:53:	Rec.py : process completed:0.576910972595
+2015-10-02 22:31:57:	segmented recording (771 rois found)
+2015-10-02 22:31:57:	Rec.py : init completed:5.50746917725e-05
+2015-10-02 22:31:57:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-16_06-50.flac is already in local storage.
+2015-10-02 22:31:57:	Rec.py : getAudioFromUri:3.50475311279e-05
+2015-10-02 22:31:57:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:31:57:	Rec.py : readAudioFromFile:0.0248048305511
+2015-10-02 22:31:57:	Rec.py : process completed:0.0249330997467
+2015-10-02 22:32:01:	segmented recording (630 rois found)
+2015-10-02 22:32:01:	Rec.py : init completed:5.91278076172e-05
+2015-10-02 22:32:01:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-06_01-00.flac is already in local storage.
+2015-10-02 22:32:01:	Rec.py : getAudioFromUri:3.40938568115e-05
+2015-10-02 22:32:01:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:32:02:	Rec.py : readAudioFromFile:0.47923207283
+2015-10-02 22:32:02:	Rec.py : process completed:0.479398965836
+2015-10-02 22:32:06:	segmented recording (589 rois found)
+2015-10-02 22:32:06:	Rec.py : init completed:5.41210174561e-05
+2015-10-02 22:32:06:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-09-27_10-30.flac is already in local storage.
+2015-10-02 22:32:06:	Rec.py : getAudioFromUri:3.31401824951e-05
+2015-10-02 22:32:06:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:32:06:	Rec.py : readAudioFromFile:0.0246250629425
+2015-10-02 22:32:06:	Rec.py : process completed:0.0247628688812
+2015-10-02 22:32:10:	segmented recording (379 rois found)
+2015-10-02 22:32:10:	Rec.py : init completed:5.3882598877e-05
+2015-10-02 22:32:10:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-12_11-00.flac is already in local storage.
+2015-10-02 22:32:10:	Rec.py : getAudioFromUri:4.48226928711e-05
+2015-10-02 22:32:10:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:32:10:	Rec.py : readAudioFromFile:0.0252640247345
+2015-10-02 22:32:10:	Rec.py : process completed:0.0254390239716
+2015-10-02 22:32:15:	segmented recording (119 rois found)
+2015-10-02 22:32:15:	Rec.py : init completed:6.19888305664e-05
+2015-10-02 22:32:15:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-01_05-10.flac is already in local storage.
+2015-10-02 22:32:15:	Rec.py : getAudioFromUri:3.50475311279e-05
+2015-10-02 22:32:15:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:32:15:	Rec.py : readAudioFromFile:0.0246748924255
+2015-10-02 22:32:15:	Rec.py : process completed:0.032341003418
+2015-10-02 22:32:19:	segmented recording (577 rois found)
+2015-10-02 22:32:19:	Rec.py : init completed:6.19888305664e-05
+2015-10-02 22:32:19:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-06_02-10.flac is already in local storage.
+2015-10-02 22:32:19:	Rec.py : getAudioFromUri:3.31401824951e-05
+2015-10-02 22:32:19:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:32:19:	Rec.py : readAudioFromFile:0.507688045502
+2015-10-02 22:32:19:	Rec.py : process completed:0.507829904556
+2015-10-02 22:32:23:	segmented recording (723 rois found)
+2015-10-02 22:32:23:	Rec.py : init completed:5.98430633545e-05
+2015-10-02 22:32:23:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-06_00-20.flac is already in local storage.
+2015-10-02 22:32:23:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:32:23:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:32:24:	Rec.py : readAudioFromFile:0.534706830978
+2015-10-02 22:32:24:	Rec.py : process completed:0.534852981567
+2015-10-02 22:32:28:	segmented recording (396 rois found)
+2015-10-02 22:32:28:	Rec.py : init completed:5.81741333008e-05
+2015-10-02 22:32:28:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-25_22-20.flac is already in local storage.
+2015-10-02 22:32:28:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:32:28:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:32:28:	Rec.py : readAudioFromFile:0.0254459381104
+2015-10-02 22:32:28:	Rec.py : process completed:0.025584936142
+2015-10-02 22:32:32:	segmented recording (280 rois found)
+2015-10-02 22:32:32:	Rec.py : init completed:6.103515625e-05
+2015-10-02 22:32:32:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-15_02-20.flac is already in local storage.
+2015-10-02 22:32:32:	Rec.py : getAudioFromUri:3.31401824951e-05
+2015-10-02 22:32:32:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:32:33:	Rec.py : readAudioFromFile:0.611341953278
+2015-10-02 22:32:33:	Rec.py : process completed:0.61151599884
+2015-10-02 22:32:37:	segmented recording (405 rois found)
+2015-10-02 22:32:37:	Rec.py : init completed:6.41345977783e-05
+2015-10-02 22:32:37:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-06_09-50.flac is already in local storage.
+2015-10-02 22:32:37:	Rec.py : getAudioFromUri:4.60147857666e-05
+2015-10-02 22:32:37:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:32:37:	Rec.py : readAudioFromFile:0.025171995163
+2015-10-02 22:32:37:	Rec.py : process completed:0.0253489017487
+2015-10-02 22:32:41:	segmented recording (70 rois found)
+2015-10-02 22:32:41:	Rec.py : init completed:6.19888305664e-05
+2015-10-02 22:32:41:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-19_13-10.flac is already in local storage.
+2015-10-02 22:32:41:	Rec.py : getAudioFromUri:3.50475311279e-05
+2015-10-02 22:32:41:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:32:41:	Rec.py : readAudioFromFile:0.0256390571594
+2015-10-02 22:32:41:	Rec.py : process completed:0.0257909297943
+2015-10-02 22:32:45:	segmented recording (43 rois found)
+2015-10-02 22:32:45:	Rec.py : init completed:6.69956207275e-05
+2015-10-02 22:32:45:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-11_20-10.flac is already in local storage.
+2015-10-02 22:32:45:	Rec.py : getAudioFromUri:3.60012054443e-05
+2015-10-02 22:32:45:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:32:45:	Rec.py : readAudioFromFile:0.0257589817047
+2015-10-02 22:32:45:	Rec.py : process completed:0.025906085968
+2015-10-02 22:32:50:	segmented recording (982 rois found)
+2015-10-02 22:32:50:	Rec.py : init completed:6.00814819336e-05
+2015-10-02 22:32:50:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-20_08-40.flac is already in local storage.
+2015-10-02 22:32:50:	Rec.py : getAudioFromUri:3.40938568115e-05
+2015-10-02 22:32:50:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:32:50:	Rec.py : readAudioFromFile:0.0264558792114
+2015-10-02 22:32:50:	Rec.py : process completed:0.0441918373108
+2015-10-02 22:32:54:	segmented recording (89 rois found)
+2015-10-02 22:32:54:	Rec.py : init completed:6.07967376709e-05
+2015-10-02 22:32:54:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-03_09-10.flac is already in local storage.
+2015-10-02 22:32:54:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:32:54:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:32:54:	Rec.py : readAudioFromFile:0.0244688987732
+2015-10-02 22:32:54:	Rec.py : process completed:0.0245969295502
+2015-10-02 22:32:58:	segmented recording (161 rois found)
+2015-10-02 22:32:58:	Rec.py : init completed:6.19888305664e-05
+2015-10-02 22:32:58:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-27_04-00.flac is already in local storage.
+2015-10-02 22:32:58:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:32:59:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:32:59:	Rec.py : readAudioFromFile:0.223102092743
+2015-10-02 22:32:59:	Rec.py : process completed:0.223259925842
+2015-10-02 22:33:03:	segmented recording (481 rois found)
+2015-10-02 22:33:03:	Rec.py : init completed:5.69820404053e-05
+2015-10-02 22:33:03:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-22_14-50.flac is already in local storage.
+2015-10-02 22:33:03:	Rec.py : getAudioFromUri:3.21865081787e-05
+2015-10-02 22:33:03:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:33:03:	Rec.py : readAudioFromFile:0.0239989757538
+2015-10-02 22:33:03:	Rec.py : process completed:0.0241360664368
+2015-10-02 22:33:07:	segmented recording (185 rois found)
+2015-10-02 22:33:07:	Rec.py : init completed:8.20159912109e-05
+2015-10-02 22:33:07:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-01_10-20.flac is already in local storage.
+2015-10-02 22:33:07:	Rec.py : getAudioFromUri:3.50475311279e-05
+2015-10-02 22:33:07:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:33:07:	Rec.py : readAudioFromFile:0.024304151535
+2015-10-02 22:33:07:	Rec.py : process completed:0.0244610309601
+2015-10-02 22:33:11:	segmented recording (104 rois found)
+2015-10-02 22:33:11:	Rec.py : init completed:5.3882598877e-05
+2015-10-02 22:33:11:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-22_17-30.flac is already in local storage.
+2015-10-02 22:33:11:	Rec.py : getAudioFromUri:3.60012054443e-05
+2015-10-02 22:33:11:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:33:11:	Rec.py : readAudioFromFile:0.0252389907837
+2015-10-02 22:33:11:	Rec.py : process completed:0.0253789424896
+2015-10-02 22:33:16:	segmented recording (418 rois found)
+2015-10-02 22:33:16:	Rec.py : init completed:5.50746917725e-05
+2015-10-02 22:33:16:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-05_10-50.flac is already in local storage.
+2015-10-02 22:33:16:	Rec.py : getAudioFromUri:4.41074371338e-05
+2015-10-02 22:33:16:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:33:16:	Rec.py : readAudioFromFile:0.0253670215607
+2015-10-02 22:33:16:	Rec.py : process completed:0.0255210399628
+2015-10-02 22:33:20:	segmented recording (8 rois found)
+2015-10-02 22:33:20:	Rec.py : init completed:6.48498535156e-05
+2015-10-02 22:33:20:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-20_04-40.flac is already in local storage.
+2015-10-02 22:33:20:	Rec.py : getAudioFromUri:3.60012054443e-05
+2015-10-02 22:33:20:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:33:20:	Rec.py : readAudioFromFile:0.0254769325256
+2015-10-02 22:33:20:	Rec.py : process completed:0.0256359577179
+2015-10-02 22:33:24:	segmented recording (462 rois found)
+2015-10-02 22:33:24:	Rec.py : init completed:5.81741333008e-05
+2015-10-02 22:33:24:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-03_11-10.flac is already in local storage.
+2015-10-02 22:33:24:	Rec.py : getAudioFromUri:3.40938568115e-05
+2015-10-02 22:33:24:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:33:24:	Rec.py : readAudioFromFile:0.0250098705292
+2015-10-02 22:33:24:	Rec.py : process completed:0.0251650810242
+2015-10-02 22:33:28:	segmented recording (334 rois found)
+2015-10-02 22:33:28:	Rec.py : init completed:5.60283660889e-05
+2015-10-02 22:33:28:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-04_11-30.flac is already in local storage.
+2015-10-02 22:33:28:	Rec.py : getAudioFromUri:3.38554382324e-05
+2015-10-02 22:33:28:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:33:28:	Rec.py : readAudioFromFile:0.0244979858398
+2015-10-02 22:33:28:	Rec.py : process completed:0.0246198177338
+2015-10-02 22:33:32:	segmented recording (265 rois found)
+2015-10-02 22:33:32:	Rec.py : init completed:6.38961791992e-05
+2015-10-02 22:33:32:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-26_15-40.flac is already in local storage.
+2015-10-02 22:33:32:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:33:32:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:33:32:	Rec.py : readAudioFromFile:0.0255160331726
+2015-10-02 22:33:32:	Rec.py : process completed:0.0256550312042
+2015-10-02 22:33:36:	segmented recording (102 rois found)
+2015-10-02 22:33:36:	Rec.py : init completed:7.60555267334e-05
+2015-10-02 22:33:36:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-24_13-10.flac is already in local storage.
+2015-10-02 22:33:36:	Rec.py : getAudioFromUri:6.5803527832e-05
+2015-10-02 22:33:36:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:33:36:	Rec.py : readAudioFromFile:0.0251960754395
+2015-10-02 22:33:36:	Rec.py : process completed:0.0253701210022
+2015-10-02 22:33:41:	segmented recording (121 rois found)
+2015-10-02 22:33:41:	Rec.py : init completed:6.07967376709e-05
+2015-10-02 22:33:41:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-01_10-50.flac is already in local storage.
+2015-10-02 22:33:41:	Rec.py : getAudioFromUri:3.50475311279e-05
+2015-10-02 22:33:41:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:33:41:	Rec.py : readAudioFromFile:0.0253190994263
+2015-10-02 22:33:41:	Rec.py : process completed:0.0254588127136
+2015-10-02 22:33:45:	segmented recording (319 rois found)
+2015-10-02 22:33:45:	Rec.py : init completed:6.103515625e-05
+2015-10-02 22:33:45:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-09_13-50.flac is already in local storage.
+2015-10-02 22:33:45:	Rec.py : getAudioFromUri:4.41074371338e-05
+2015-10-02 22:33:45:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:33:45:	Rec.py : readAudioFromFile:0.0240030288696
+2015-10-02 22:33:45:	Rec.py : process completed:0.0398859977722
+2015-10-02 22:33:49:	segmented recording (37 rois found)
+2015-10-02 22:33:49:	Rec.py : init completed:6.48498535156e-05
+2015-10-02 22:33:49:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-24_01-50.flac is already in local storage.
+2015-10-02 22:33:49:	Rec.py : getAudioFromUri:3.60012054443e-05
+2015-10-02 22:33:49:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:33:49:	Rec.py : readAudioFromFile:0.463254928589
+2015-10-02 22:33:49:	Rec.py : process completed:0.463417053223
+2015-10-02 22:33:54:	segmented recording (374 rois found)
+2015-10-02 22:33:54:	Rec.py : init completed:6.19888305664e-05
+2015-10-02 22:33:54:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-26_06-50.flac is already in local storage.
+2015-10-02 22:33:54:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:33:54:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:33:54:	Rec.py : readAudioFromFile:0.0244770050049
+2015-10-02 22:33:54:	Rec.py : process completed:0.027172088623
+2015-10-02 22:33:58:	segmented recording (216 rois found)
+2015-10-02 22:33:58:	Rec.py : init completed:5.29289245605e-05
+2015-10-02 22:33:58:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-09-27_06-50.flac is already in local storage.
+2015-10-02 22:33:58:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:33:58:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:33:58:	Rec.py : readAudioFromFile:0.0245871543884
+2015-10-02 22:33:58:	Rec.py : process completed:0.0247251987457
+2015-10-02 22:34:02:	segmented recording (199 rois found)
+2015-10-02 22:34:02:	Rec.py : init completed:6.48498535156e-05
+2015-10-02 22:34:02:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-05_22-50.flac is already in local storage.
+2015-10-02 22:34:02:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:34:02:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:34:02:	Rec.py : readAudioFromFile:0.0248720645905
+2015-10-02 22:34:02:	Rec.py : process completed:0.0250051021576
+2015-10-02 22:34:06:	segmented recording (745 rois found)
+2015-10-02 22:34:06:	Rec.py : init completed:5.10215759277e-05
+2015-10-02 22:34:06:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-22_21-00.flac is already in local storage.
+2015-10-02 22:34:06:	Rec.py : getAudioFromUri:3.38554382324e-05
+2015-10-02 22:34:06:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:34:06:	Rec.py : readAudioFromFile:0.0247778892517
+2015-10-02 22:34:06:	Rec.py : process completed:0.0249090194702
+2015-10-02 22:34:10:	segmented recording (461 rois found)
+2015-10-02 22:34:10:	Rec.py : init completed:5.41210174561e-05
+2015-10-02 22:34:10:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-19_00-10.flac is already in local storage.
+2015-10-02 22:34:10:	Rec.py : getAudioFromUri:3.40938568115e-05
+2015-10-02 22:34:10:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:34:11:	Rec.py : readAudioFromFile:0.632694005966
+2015-10-02 22:34:11:	Rec.py : process completed:0.632843017578
+2015-10-02 22:34:15:	segmented recording (516 rois found)
+2015-10-02 22:34:15:	Rec.py : init completed:5.50746917725e-05
+2015-10-02 22:34:15:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-08_23-50.flac is already in local storage.
+2015-10-02 22:34:15:	Rec.py : getAudioFromUri:4.50611114502e-05
+2015-10-02 22:34:15:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:34:15:	Rec.py : readAudioFromFile:0.0250780582428
+2015-10-02 22:34:15:	Rec.py : process completed:0.0252280235291
+2015-10-02 22:34:19:	segmented recording (656 rois found)
+2015-10-02 22:34:19:	Rec.py : init completed:5.98430633545e-05
+2015-10-02 22:34:19:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-14_19-20.flac is already in local storage.
+2015-10-02 22:34:19:	Rec.py : getAudioFromUri:3.38554382324e-05
+2015-10-02 22:34:19:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:34:19:	Rec.py : readAudioFromFile:0.0242309570312
+2015-10-02 22:34:19:	Rec.py : process completed:0.0243630409241
+2015-10-02 22:34:23:	segmented recording (403 rois found)
+2015-10-02 22:34:23:	Rec.py : init completed:6.60419464111e-05
+2015-10-02 22:34:23:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-09_04-10.flac is already in local storage.
+2015-10-02 22:34:23:	Rec.py : getAudioFromUri:3.50475311279e-05
+2015-10-02 22:34:23:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:34:24:	Rec.py : readAudioFromFile:0.252025842667
+2015-10-02 22:34:24:	Rec.py : process completed:0.252198934555
+2015-10-02 22:34:28:	segmented recording (344 rois found)
+2015-10-02 22:34:28:	Rec.py : init completed:5.29289245605e-05
+2015-10-02 22:34:28:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-18_20-20.flac is already in local storage.
+2015-10-02 22:34:28:	Rec.py : getAudioFromUri:3.31401824951e-05
+2015-10-02 22:34:28:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:34:28:	Rec.py : readAudioFromFile:0.0247359275818
+2015-10-02 22:34:28:	Rec.py : process completed:0.0248689651489
+2015-10-02 22:34:32:	segmented recording (643 rois found)
+2015-10-02 22:34:32:	Rec.py : init completed:6.103515625e-05
+2015-10-02 22:34:32:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-03_12-30.flac is already in local storage.
+2015-10-02 22:34:32:	Rec.py : getAudioFromUri:3.31401824951e-05
+2015-10-02 22:34:32:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:34:32:	Rec.py : readAudioFromFile:0.0240650177002
+2015-10-02 22:34:32:	Rec.py : process completed:0.0241930484772
+2015-10-02 22:34:36:	segmented recording (269 rois found)
+2015-10-02 22:34:36:	Rec.py : init completed:6.00814819336e-05
+2015-10-02 22:34:36:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-10_19-10.flac is already in local storage.
+2015-10-02 22:34:36:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:34:36:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:34:36:	Rec.py : readAudioFromFile:0.0248670578003
+2015-10-02 22:34:36:	Rec.py : process completed:0.0250210762024
+2015-10-02 22:34:40:	segmented recording (465 rois found)
+2015-10-02 22:34:40:	Rec.py : init completed:5.3882598877e-05
+2015-10-02 22:34:40:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-09-28_23-50.flac is already in local storage.
+2015-10-02 22:34:40:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:34:40:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:34:40:	Rec.py : readAudioFromFile:0.0250840187073
+2015-10-02 22:34:40:	Rec.py : process completed:0.0252170562744
+2015-10-02 22:34:45:	segmented recording (905 rois found)
+2015-10-02 22:34:45:	Rec.py : init completed:6.00814819336e-05
+2015-10-02 22:34:45:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-20_21-00.flac is already in local storage.
+2015-10-02 22:34:45:	Rec.py : getAudioFromUri:4.48226928711e-05
+2015-10-02 22:34:45:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:34:45:	Rec.py : readAudioFromFile:0.0248899459839
+2015-10-02 22:34:45:	Rec.py : process completed:0.0250301361084
+2015-10-02 22:34:49:	segmented recording (244 rois found)
+2015-10-02 22:34:49:	Rec.py : init completed:7.20024108887e-05
+2015-10-02 22:34:49:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-18_22-10.flac is already in local storage.
+2015-10-02 22:34:49:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:34:49:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:34:49:	Rec.py : readAudioFromFile:0.0247781276703
+2015-10-02 22:34:49:	Rec.py : process completed:0.0272498130798
+2015-10-02 22:34:53:	segmented recording (350 rois found)
+2015-10-02 22:34:53:	Rec.py : init completed:5.69820404053e-05
+2015-10-02 22:34:53:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-09-28_08-00.flac is already in local storage.
+2015-10-02 22:34:53:	Rec.py : getAudioFromUri:3.40938568115e-05
+2015-10-02 22:34:53:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:34:53:	Rec.py : readAudioFromFile:0.0254979133606
+2015-10-02 22:34:53:	Rec.py : process completed:0.0256578922272
+2015-10-02 22:34:57:	segmented recording (75 rois found)
+2015-10-02 22:34:57:	Rec.py : init completed:6.103515625e-05
+2015-10-02 22:34:57:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-01-29_21-10.flac is already in local storage.
+2015-10-02 22:34:57:	Rec.py : getAudioFromUri:3.48091125488e-05
+2015-10-02 22:34:57:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:34:57:	Rec.py : readAudioFromFile:0.0257408618927
+2015-10-02 22:34:57:	Rec.py : process completed:0.025897026062
+2015-10-02 22:35:01:	segmented recording (425 rois found)
+2015-10-02 22:35:01:	Rec.py : init completed:5.41210174561e-05
+2015-10-02 22:35:01:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-11_08-00.flac is already in local storage.
+2015-10-02 22:35:01:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:35:01:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:35:01:	Rec.py : readAudioFromFile:0.0249819755554
+2015-10-02 22:35:01:	Rec.py : process completed:0.0251159667969
+2015-10-02 22:35:05:	segmented recording (323 rois found)
+2015-10-02 22:35:05:	Rec.py : init completed:5.29289245605e-05
+2015-10-02 22:35:05:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-07_11-50.flac is already in local storage.
+2015-10-02 22:35:05:	Rec.py : getAudioFromUri:3.48091125488e-05
+2015-10-02 22:35:05:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:35:05:	Rec.py : readAudioFromFile:0.0251159667969
+2015-10-02 22:35:05:	Rec.py : process completed:0.025249004364
+2015-10-02 22:35:10:	segmented recording (244 rois found)
+2015-10-02 22:35:10:	Rec.py : init completed:5.81741333008e-05
+2015-10-02 22:35:10:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-04_05-30.flac is already in local storage.
+2015-10-02 22:35:10:	Rec.py : getAudioFromUri:3.79085540771e-05
+2015-10-02 22:35:10:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:35:10:	Rec.py : readAudioFromFile:0.358557939529
+2015-10-02 22:35:10:	Rec.py : process completed:0.358716011047
+2015-10-02 22:35:14:	segmented recording (401 rois found)
+2015-10-02 22:35:14:	Rec.py : init completed:5.31673431396e-05
+2015-10-02 22:35:14:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-09-29_22-50.flac is already in local storage.
+2015-10-02 22:35:14:	Rec.py : getAudioFromUri:4.50611114502e-05
+2015-10-02 22:35:14:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:35:14:	Rec.py : readAudioFromFile:0.0256390571594
+2015-10-02 22:35:14:	Rec.py : process completed:0.0258021354675
+2015-10-02 22:35:18:	segmented recording (1228 rois found)
+2015-10-02 22:35:18:	Rec.py : init completed:6.19888305664e-05
+2015-10-02 22:35:18:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-23_17-50.flac is already in local storage.
+2015-10-02 22:35:18:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:35:18:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:35:18:	Rec.py : readAudioFromFile:0.0251739025116
+2015-10-02 22:35:18:	Rec.py : process completed:0.0253100395203
+2015-10-02 22:35:22:	segmented recording (566 rois found)
+2015-10-02 22:35:22:	Rec.py : init completed:6.00814819336e-05
+2015-10-02 22:35:22:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-05_13-10.flac is already in local storage.
+2015-10-02 22:35:22:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:35:22:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:35:23:	Rec.py : readAudioFromFile:0.0252370834351
+2015-10-02 22:35:23:	Rec.py : process completed:0.0253739356995
+2015-10-02 22:35:27:	segmented recording (734 rois found)
+2015-10-02 22:35:27:	Rec.py : init completed:6.19888305664e-05
+2015-10-02 22:35:27:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-05_09-50.flac is already in local storage.
+2015-10-02 22:35:27:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:35:27:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:35:27:	Rec.py : readAudioFromFile:0.0262260437012
+2015-10-02 22:35:27:	Rec.py : process completed:0.0263669490814
+2015-10-02 22:35:31:	segmented recording (469 rois found)
+2015-10-02 22:35:31:	Rec.py : init completed:6.19888305664e-05
+2015-10-02 22:35:31:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-26_18-50.flac is already in local storage.
+2015-10-02 22:35:31:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:35:31:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:35:31:	Rec.py : readAudioFromFile:0.0246069431305
+2015-10-02 22:35:31:	Rec.py : process completed:0.0247709751129
+2015-10-02 22:35:35:	segmented recording (341 rois found)
+2015-10-02 22:35:35:	Rec.py : init completed:6.00814819336e-05
+2015-10-02 22:35:35:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-12_03-20.flac is already in local storage.
+2015-10-02 22:35:35:	Rec.py : getAudioFromUri:3.40938568115e-05
+2015-10-02 22:35:35:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:35:36:	Rec.py : readAudioFromFile:0.479868888855
+2015-10-02 22:35:36:	Rec.py : process completed:0.480042934418
+2015-10-02 22:35:40:	segmented recording (411 rois found)
+2015-10-02 22:35:40:	Rec.py : init completed:5.29289245605e-05
+2015-10-02 22:35:40:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-01_06-40.flac is already in local storage.
+2015-10-02 22:35:40:	Rec.py : getAudioFromUri:3.31401824951e-05
+2015-10-02 22:35:40:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:35:40:	Rec.py : readAudioFromFile:0.0246438980103
+2015-10-02 22:35:40:	Rec.py : process completed:0.0248038768768
+2015-10-02 22:35:44:	segmented recording (169 rois found)
+2015-10-02 22:35:44:	Rec.py : init completed:6.31809234619e-05
+2015-10-02 22:35:44:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-04_22-30.flac is already in local storage.
+2015-10-02 22:35:44:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:35:44:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:35:44:	Rec.py : readAudioFromFile:0.0263209342957
+2015-10-02 22:35:44:	Rec.py : process completed:0.0334289073944
+2015-10-02 22:35:48:	segmented recording (460 rois found)
+2015-10-02 22:35:48:	Rec.py : init completed:5.79357147217e-05
+2015-10-02 22:35:48:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-09_16-40.flac is already in local storage.
+2015-10-02 22:35:48:	Rec.py : getAudioFromUri:3.40938568115e-05
+2015-10-02 22:35:48:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:35:48:	Rec.py : readAudioFromFile:0.0253510475159
+2015-10-02 22:35:48:	Rec.py : process completed:0.025486946106
+2015-10-02 22:35:52:	segmented recording (299 rois found)
+2015-10-02 22:35:52:	Rec.py : init completed:5.57899475098e-05
+2015-10-02 22:35:52:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-05_12-40.flac is already in local storage.
+2015-10-02 22:35:52:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:35:52:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:35:52:	Rec.py : readAudioFromFile:0.0260050296783
+2015-10-02 22:35:52:	Rec.py : process completed:0.0261659622192
+2015-10-02 22:35:57:	segmented recording (260 rois found)
+2015-10-02 22:35:57:	Rec.py : init completed:5.48362731934e-05
+2015-10-02 22:35:57:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-19_16-00.flac is already in local storage.
+2015-10-02 22:35:57:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:35:57:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:35:57:	Rec.py : readAudioFromFile:0.0256848335266
+2015-10-02 22:35:57:	Rec.py : process completed:0.0258140563965
+2015-10-02 22:36:01:	segmented recording (126 rois found)
+2015-10-02 22:36:01:	Rec.py : init completed:6.19888305664e-05
+2015-10-02 22:36:01:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-03_16-10.flac is already in local storage.
+2015-10-02 22:36:01:	Rec.py : getAudioFromUri:4.19616699219e-05
+2015-10-02 22:36:01:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:36:01:	Rec.py : readAudioFromFile:0.0249600410461
+2015-10-02 22:36:01:	Rec.py : process completed:0.0489490032196
+2015-10-02 22:36:05:	segmented recording (293 rois found)
+2015-10-02 22:36:05:	Rec.py : init completed:6.38961791992e-05
+2015-10-02 22:36:05:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-09-29_19-30.flac is already in local storage.
+2015-10-02 22:36:05:	Rec.py : getAudioFromUri:2.8133392334e-05
+2015-10-02 22:36:05:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:36:05:	Rec.py : readAudioFromFile:0.0253460407257
+2015-10-02 22:36:05:	Rec.py : process completed:0.0254671573639
+2015-10-02 22:36:09:	segmented recording (1249 rois found)
+2015-10-02 22:36:09:	Rec.py : init completed:7.00950622559e-05
+2015-10-02 22:36:09:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-09-29_01-40.flac is already in local storage.
+2015-10-02 22:36:09:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:36:09:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:36:10:	Rec.py : readAudioFromFile:0.436972141266
+2015-10-02 22:36:10:	Rec.py : process completed:0.437126874924
+2015-10-02 22:36:14:	segmented recording (1001 rois found)
+2015-10-02 22:36:14:	Rec.py : init completed:6.19888305664e-05
+2015-10-02 22:36:14:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-17_03-40.flac is already in local storage.
+2015-10-02 22:36:14:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:36:14:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:36:15:	Rec.py : readAudioFromFile:0.637490987778
+2015-10-02 22:36:15:	Rec.py : process completed:0.63766503334
+2015-10-02 22:36:19:	segmented recording (376 rois found)
+2015-10-02 22:36:19:	Rec.py : init completed:5.31673431396e-05
+2015-10-02 22:36:19:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-05_18-20.flac is already in local storage.
+2015-10-02 22:36:19:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:36:19:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:36:19:	Rec.py : readAudioFromFile:0.0246739387512
+2015-10-02 22:36:19:	Rec.py : process completed:0.024806022644
+2015-10-02 22:36:23:	segmented recording (339 rois found)
+2015-10-02 22:36:23:	Rec.py : init completed:5.69820404053e-05
+2015-10-02 22:36:23:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-19_11-20.flac is already in local storage.
+2015-10-02 22:36:23:	Rec.py : getAudioFromUri:3.40938568115e-05
+2015-10-02 22:36:23:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:36:23:	Rec.py : readAudioFromFile:0.0262949466705
+2015-10-02 22:36:23:	Rec.py : process completed:0.0264611244202
+2015-10-02 22:36:27:	segmented recording (109 rois found)
+2015-10-02 22:36:27:	Rec.py : init completed:5.41210174561e-05
+2015-10-02 22:36:27:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-01-30_14-20.flac is already in local storage.
+2015-10-02 22:36:27:	Rec.py : getAudioFromUri:3.60012054443e-05
+2015-10-02 22:36:27:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:36:27:	Rec.py : readAudioFromFile:0.0244498252869
+2015-10-02 22:36:27:	Rec.py : process completed:0.0245859622955
+2015-10-02 22:36:31:	segmented recording (601 rois found)
+2015-10-02 22:36:31:	Rec.py : init completed:5.19752502441e-05
+2015-10-02 22:36:31:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-25_09-10.flac is already in local storage.
+2015-10-02 22:36:31:	Rec.py : getAudioFromUri:2.69412994385e-05
+2015-10-02 22:36:31:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:36:31:	Rec.py : readAudioFromFile:0.024594783783
+2015-10-02 22:36:31:	Rec.py : process completed:0.0247259140015
+2015-10-02 22:36:36:	segmented recording (795 rois found)
+2015-10-02 22:36:36:	Rec.py : init completed:5.48362731934e-05
+2015-10-02 22:36:36:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-09_14-10.flac is already in local storage.
+2015-10-02 22:36:36:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:36:36:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:36:36:	Rec.py : readAudioFromFile:0.0239500999451
+2015-10-02 22:36:36:	Rec.py : process completed:0.0240759849548
+2015-10-02 22:36:40:	segmented recording (68 rois found)
+2015-10-02 22:36:40:	Rec.py : init completed:6.69956207275e-05
+2015-10-02 22:36:40:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-10_19-50.flac is already in local storage.
+2015-10-02 22:36:40:	Rec.py : getAudioFromUri:3.79085540771e-05
+2015-10-02 22:36:40:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:36:40:	Rec.py : readAudioFromFile:0.0246901512146
+2015-10-02 22:36:40:	Rec.py : process completed:0.0319230556488
+2015-10-02 22:36:44:	segmented recording (368 rois found)
+2015-10-02 22:36:44:	Rec.py : init completed:6.41345977783e-05
+2015-10-02 22:36:44:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-24_17-20.flac is already in local storage.
+2015-10-02 22:36:44:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:36:44:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:36:44:	Rec.py : readAudioFromFile:0.026312828064
+2015-10-02 22:36:44:	Rec.py : process completed:0.0264859199524
+2015-10-02 22:36:48:	segmented recording (308 rois found)
+2015-10-02 22:36:48:	Rec.py : init completed:6.48498535156e-05
+2015-10-02 22:36:48:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-15_06-10.flac is already in local storage.
+2015-10-02 22:36:48:	Rec.py : getAudioFromUri:3.50475311279e-05
+2015-10-02 22:36:48:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:36:48:	Rec.py : readAudioFromFile:0.0252158641815
+2015-10-02 22:36:48:	Rec.py : process completed:0.0303061008453
+2015-10-02 22:36:52:	segmented recording (283 rois found)
+2015-10-02 22:36:52:	Rec.py : init completed:5.50746917725e-05
+2015-10-02 22:36:52:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-21_00-40.flac is already in local storage.
+2015-10-02 22:36:52:	Rec.py : getAudioFromUri:3.31401824951e-05
+2015-10-02 22:36:52:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:36:53:	Rec.py : readAudioFromFile:0.607746839523
+2015-10-02 22:36:53:	Rec.py : process completed:0.607893943787
+2015-10-02 22:36:57:	segmented recording (418 rois found)
+2015-10-02 22:36:57:	Rec.py : init completed:5.19752502441e-05
+2015-10-02 22:36:57:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-24_14-40.flac is already in local storage.
+2015-10-02 22:36:57:	Rec.py : getAudioFromUri:3.21865081787e-05
+2015-10-02 22:36:57:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:36:57:	Rec.py : readAudioFromFile:0.0252358913422
+2015-10-02 22:36:57:	Rec.py : process completed:0.0253751277924
+2015-10-02 22:37:01:	segmented recording (335 rois found)
+2015-10-02 22:37:01:	Rec.py : init completed:7.20024108887e-05
+2015-10-02 22:37:01:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-02_18-30.flac is already in local storage.
+2015-10-02 22:37:01:	Rec.py : getAudioFromUri:3.981590271e-05
+2015-10-02 22:37:01:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:37:01:	Rec.py : readAudioFromFile:0.0264010429382
+2015-10-02 22:37:01:	Rec.py : process completed:0.0265917778015
+2015-10-02 22:37:06:	segmented recording (405 rois found)
+2015-10-02 22:37:06:	Rec.py : init completed:6.48498535156e-05
+2015-10-02 22:37:06:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-07-16_13-00.flac is already in local storage.
+2015-10-02 22:37:06:	Rec.py : getAudioFromUri:3.48091125488e-05
+2015-10-02 22:37:06:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:37:06:	Rec.py : readAudioFromFile:0.0256388187408
+2015-10-02 22:37:06:	Rec.py : process completed:0.0258121490479
+2015-10-02 22:37:10:	segmented recording (201 rois found)
+2015-10-02 22:37:10:	Rec.py : init completed:6.29425048828e-05
+2015-10-02 22:37:10:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-09-26_12-50.flac is already in local storage.
+2015-10-02 22:37:10:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:37:10:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:37:10:	Rec.py : readAudioFromFile:0.0236210823059
+2015-10-02 22:37:10:	Rec.py : process completed:0.0237531661987
+2015-10-02 22:37:14:	segmented recording (304 rois found)
+2015-10-02 22:37:14:	Rec.py : init completed:5.41210174561e-05
+2015-10-02 22:37:14:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-11_02-20.flac is already in local storage.
+2015-10-02 22:37:14:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:37:14:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:37:15:	Rec.py : readAudioFromFile:0.522408008575
+2015-10-02 22:37:15:	Rec.py : process completed:0.522552013397
+2015-10-02 22:37:19:	segmented recording (404 rois found)
+2015-10-02 22:37:19:	Rec.py : init completed:8.70227813721e-05
+2015-10-02 22:37:19:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-11_09-20.flac is already in local storage.
+2015-10-02 22:37:19:	Rec.py : getAudioFromUri:4.50611114502e-05
+2015-10-02 22:37:19:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:37:19:	Rec.py : readAudioFromFile:0.0276889801025
+2015-10-02 22:37:19:	Rec.py : process completed:0.0280950069427
+2015-10-02 22:37:23:	segmented recording (109 rois found)
+2015-10-02 22:37:23:	Rec.py : init completed:0.000108003616333
+2015-10-02 22:37:23:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-01-29_20-20.flac is already in local storage.
+2015-10-02 22:37:23:	Rec.py : getAudioFromUri:3.60012054443e-05
+2015-10-02 22:37:23:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:37:23:	Rec.py : readAudioFromFile:0.0305449962616
+2015-10-02 22:37:23:	Rec.py : process completed:0.0307037830353
+2015-10-02 22:37:28:	segmented recording (530 rois found)
+2015-10-02 22:37:28:	Rec.py : init completed:5.50746917725e-05
+2015-10-02 22:37:28:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/Gb005-2014-10-07_23-40.flac is already in local storage.
+2015-10-02 22:37:28:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:37:28:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:37:28:	Rec.py : readAudioFromFile:0.024482011795
+2015-10-02 22:37:28:	Rec.py : process completed:0.0246357917786
+2015-10-02 22:37:32:	segmented recording (289 rois found)
+2015-10-02 22:37:32:	Rec.py : init completed:5.60283660889e-05
+2015-10-02 22:37:32:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-09_00-40.flac is already in local storage.
+2015-10-02 22:37:32:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:37:32:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:37:32:	Rec.py : readAudioFromFile:0.510298967361
+2015-10-02 22:37:32:	Rec.py : process completed:0.51055598259
+2015-10-02 22:37:37:	segmented recording (654 rois found)
+2015-10-02 22:37:37:	Rec.py : init completed:5.79357147217e-05
+2015-10-02 22:37:37:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-07_01-30.flac is already in local storage.
+2015-10-02 22:37:37:	Rec.py : getAudioFromUri:3.19480895996e-05
+2015-10-02 22:37:37:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:37:37:	Rec.py : readAudioFromFile:0.495005846024
+2015-10-02 22:37:37:	Rec.py : process completed:0.495153188705
+2015-10-02 22:37:41:	segmented recording (318 rois found)
+2015-10-02 22:37:41:	Rec.py : init completed:8.51154327393e-05
+2015-10-02 22:37:41:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-02_02-00.flac is already in local storage.
+2015-10-02 22:37:41:	Rec.py : getAudioFromUri:8.79764556885e-05
+2015-10-02 22:37:41:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:37:42:	Rec.py : readAudioFromFile:0.580916881561
+2015-10-02 22:37:42:	Rec.py : process completed:0.581160068512
+2015-10-02 22:37:46:	segmented recording (435 rois found)
+2015-10-02 22:37:46:	Rec.py : init completed:5.3882598877e-05
+2015-10-02 22:37:46:	Rec.py : recording /home/gio/langdev/gitclones/mine/fltr-audio-seg/samples/sample_smithsonian2/1000A-2015-02-07_03-50.flac is already in local storage.
+2015-10-02 22:37:46:	Rec.py : getAudioFromUri:3.2901763916e-05
+2015-10-02 22:37:46:	Rec.py : sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-10-02 22:37:47:	Rec.py : readAudioFromFile:0.557368993759
+2015-10-02 22:37:47:	Rec.py : process completed:0.557537078857
+2015-10-02 22:37:51:	segmented recording (583 rois found)
+2015-10-02 22:37:51:	script end
+2015-10-02 22:37:51:	execution time: 1033.39546394

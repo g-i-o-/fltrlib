@@ -11,3 +11,6 @@
 
 #flacs(temporaryly)
 *.flac
+
+#pngs(temporaryly)
+*.png

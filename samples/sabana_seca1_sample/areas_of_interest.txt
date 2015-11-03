@@ -1,2 +1,0 @@
-AOI,bw_min,bw_max,y_max_min,y_max_max
-1,700,1900,2650,3550
