@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html ng-app="testapp" >
+<head>
+	<title>US Incarceration Figures Per State</title>
+    <script src="/bower_components/angular/angular.js"></script>
+	<script src="/bower_components/d3/d3.js"></script>
+    <script>
+        angular.module('testapp',[])
+		.directive('statesgraph', function(){
+            return {
+				restrict:'E',
+				link: function(scope, element, attrs){
+				},
+                template:
+				'<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" width="1200" height="180" xmlns:dc="http://purl.org/dc/elements/1.1/">' +
+			      '<g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">' +
+			        '<g>' +
+			          '<rect ng-repeat="state in states | orderBy:order" ng-attr-x="{{2+($index *16)}}" ng-attr-y="{{170 - (state.inc/10)}}" width="14" ng-attr-height="{{state.inc/10}}" fill="#F0F8FF" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">' +
+			            '<title>{{state.inc}}</title>' +
+			          '</rect>' +
+			          '<line ng-repeat="state in states | orderBy:order"' +
+			            'ng-attr-x1="{{2+($index *16)}}"' +
+			            'ng-attr-y1="{{170 - (state.inc/10)}}"' +
+			            'ng-attr-x2="{{2+($index *16) + 14}}"' +
+			            'ng-attr-y2="{{170 - (state.inc/10) + state.inc/10}}"' +
+			            'fill="#F0F8FF" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">' +
+			        '</line>' +
+			          '<text ng-repeat="state in states | orderBy:order" ng-attr-transform="{{ \'translate(\' + (12 + ($index *16)) + \' 165) rotate(-90)\' }}" fill="black">' +
+			            '<tspan font-family="Helvetica Neue" font-size="11" font-weight="500">{{state.name}}</tspan>' +
+			          '</text>' +
+			        '</g>' +
+			      '</g>' +
+			    '</svg>'
+            };
+        })
+        .controller('UsStates',
+        function UsStates($scope, $log) {
+
+            $scope.order = "name";
+
+            $scope.states = [
+				{ name: "Louisiana", "inc" : 1619},
+				{ name: "Alabama", "inc" : 735},
+				{ name: "Oklahoma", "inc" : 661},
+				{ name: "Texas", "inc" : 639},
+				{ name: "Mississippi", "inc" : 634},
+				{ name: "Arizona", "inc" : 567},
+				{ name: "Florida", "inc" : 557},
+				{ name: "Georgia", "inc" : 540},
+				{ name: "South Carolina", "inc" : 519},
+				{ name: "Alaska", "inc" : 511},
+				{ name: "Missouri", "inc" : 509},
+				{ name: "Kentucky", "inc" : 492},
+				{ name: "Virginia", "inc" : 489},
+				{ name: "Michigan", "inc" : 488},
+				{ name: "Nevada", "inc" : 486},
+				{ name: "Idaho", "inc" : 474},
+				{ name: "California", "inc" : 467},
+				{ name: "Colorado", "inc" : 467},
+				{ name: "Delaware", "inc" : 463},
+				{ name: "Ohio", "inc" : 449},
+				{ name: "Indiana", "inc" : 442},
+				{ name: "Tenassee", "inc" : 436},
+				{ name: "Arkansas", "inc" : 430},
+				{ name: "South Dakota", "inc" : 412},
+				{ name: "Connecticut", "inc" : 407},
+				{ name: "Maryland", "inc" : 403},
+				{ name: "Wisconsin", "inc" : 393},
+				{ name: "Wyoming", "inc" : 387},
+				{ name: "Wisconsin", "inc" : 374},
+				{ name: "Oregan", "inc" : 371},
+				{ name: "Montana", "inc" : 368},
+				{ name: "North Carolina", "inc" : 368},
+				{ name: "Illinois", "inc" : 351},
+				{ name: "Hawaii", "inc" : 332},
+				{ name: "West Virginia", "inc" : 331},
+				{ name: "New Mexico", "inc" : 316},
+				{ name: "New York", "inc" : 307},
+				{ name: "Kansas", "inc" : 303},
+				{ name: "New Jersey", "inc" : 298},
+				{ name: "Iowa", "inc" : 291},
+				{ name: "Washington", "inc" : 272},
+				{ name: "Vermont", "inc" : 260},
+				{ name: "Nebraska", "inc" : 247},
+				{ name: "Rhode Island", "inc" : 240},
+				{ name: "Utah", "inc" : 232},
+				{ name: "North Dakota", "inc" : 225},
+				{ name: "New Hampshire", "inc" : 220},
+				{ name: "Massachusetts", "inc" : 218},
+				{ name: "Minnesota", "inc" : 179},
+				{ name: "Maine", "inc" : 151}
+				];
+        }
+        )
+        .directive('angularSvg', function(){
+            function cloneInOtherNS(element, ns){
+                switch(element.nodeType){
+                    case document.ELEMENT_NODE:
+                        var tagname = /angular-svg/i.test(element.tagName) ? 'svg' : element.tagName;
+                        var clone = document.createElementNS(ns, tagname);
+                        var attributes = element.attributes;
+                        for(var i=0, e=attributes.length; i < e; ++i){
+                            var attribute = attributes[i];
+                            var cloned_attr = document.createAttribute(attribute.nodeName);
+                            cloned_attr.value = attribute.value;
+                            clone.attributes.setNamedItem(cloned_attr);
+                        }
+
+                        var children = element.childNodes
+                        for(var i=0, e=children.length; i < e; ++i){
+                            console.log(children[i]);
+                            var cloned_child = cloneInOtherNS(children[i], ns);
+                            console.log(" ---> ", cloned_child);
+                            if(cloned_child){
+                                clone.appendChild(cloned_child);
+                            }
+                        }
+
+                        return clone;
+                    break;
+                    case document.TEXT_NODE:
+                        var clone = document.createTextNode(element.textContent);
+                        return clone;
+                    break;
+                }
+            }
+
+            return {
+                restrict:'E',
+                template:'<angular-svg-tag></angular-svg-tag>',
+                replace:true,
+                compile: function(element, attr){
+                    console.log(element);
+                    var svgelement = cloneInOtherNS(element[0], "http://www.w3.org/2000/svg");
+                    var children = element[0].childNodes;
+                    for(var i=0, e=children.length; i < e; ++i){
+                        if(children[i]){ element[0].removeChild(children[i]); }
+                    }
+                    element[0].appendChild(svgelement);
+
+                }
+            };
+        })
+        ;
+    </script>
+</head>
+<body ng-controller="UsStates" bgcolor="#FFFFFF">
+    <span>Order by:
+    <span>Alphabetically <input ng-model="order" value="name" type="radio" name="chart-type"></span>
+    <span>Incarceration Rate<input ng-model="order" value="-inc" type="radio" name="chart-type"></span>
+    </span>
+    <br/>
+	<hr /><statesgraph></statesgraph>
+</body>
+</html>

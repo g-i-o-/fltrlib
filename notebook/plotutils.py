@@ -71,17 +71,31 @@ def set_tick_labels(plot, axis, ticks, count=None):
         map(ticks, getattr(plot, 'get_'+axis+'ticks')().tolist())
     )
     
-def scatterplot_matrix(X, names=None, plotter=density_plot, hist_plotter=matplotlib.pyplot.hist, bins=None, hbins=None, tick_count=None, tick_fmt=None, rc=None, showfn=None, mtype=None, axshowfn=None, **kwargs):
+def scatterplot_matrix(X, names=None, plotter=density_plot, hist_plotter=matplotlib.pyplot.hist, bins=None, hbins=None, tick_count=None, tick_fmt=None, rc=None, showfn=None, mtype=None, axshowfn=None, colorbar=False, colorbar_text="", **kwargs):
     """Matrix of m x m plots, where m is X.shape[2]."""
     m, n = X.shape
     if not names:
         names = map(str, range(n))
+    
+    idx_offset_i, idx_offset_j = 0, 0
         
     if not showfn and mtype:
         if mtype[0] == 'U':
-            showfn = (lambda i,j: i<=j) if mtype == 'UD' else (lambda i,j: i<j)
+            if mtype == 'UD':
+                showfn = (lambda i,j: i<=j)
+                idx_offset_j = 0
+            else:
+                showfn = (lambda i,j: i<j)
+                idx_offset_j = -1
+                n_offset = -1
         elif mtype[0] == 'D':
-            showfn = (lambda i,j: i>=j) if mtype == 'DD' else (lambda i,j: i>j)
+            if mtype == 'DD':
+                showfn = (lambda i,j: i>=j) 
+                idx_offset_i = 0 
+            else:
+                showfn = (lambda i,j: i>j)
+                idx_offset_i = -1
+                n_offset = -1
             
     if not axshowfn:
         axshowfn = lambda i, j: (i == 0 or i + 1 == n)
@@ -104,21 +118,42 @@ def scatterplot_matrix(X, names=None, plotter=density_plot, hist_plotter=matplot
         if k[:5] == 'hist_':
             hist_kwargs[k[5:]] = v
             del kwargs[k]
-    
+            
+    if colorbar:
+        Vstat = None
+        for i in range(n):
+            H = numpy.histogram(X[:,i], bins=hbins[i] if hbins else 150)[0]
+            if 'log' in kwargs and kwargs['log']:
+                H = numpy.log(H + 1)
+            Hmin, Hmax = min(H), max(H)
+
+            if Vstat:
+                Vstat['min'] = min(Vstat['min'], Hmin)
+                Vstat['max'] = max(Vstat['max'], Hmax)
+            else :
+                Vstat = {'min':Hmin, 'max':Hmax}
+        if 'vmin' not in kwargs:
+            kwargs['vmin'] = Vstat['min']
+        if 'vmax' not in kwargs:
+            kwargs['vmax'] = Vstat['max'] * .9
+
+
     for i in range(n):
         for j in range(n):
             if showfn and not showfn(i, j):
                 continue
             ni, nj = names[i], names[j]
+            subplot_idx = (i + idx_offset_i)*(n + n_offset) + (j + idx_offset_j) + 1
             if i == j:
-                sp = matplotlib.pyplot.subplot(n, n, i*n + j + 1)
+                sp = matplotlib.pyplot.subplot(n + n_offset, n + n_offset, subplot_idx)
                 hist_plotter(X[:,j], bins=hbins[i] if hbins else 150, **hist_kwargs)
                 set_plot_axis(sp, 'y', visible=False)
             else:
-                sp = matplotlib.pyplot.subplot(n, n, i*n + j + 1)
+                sp = matplotlib.pyplot.subplot(n + n_offset, n + n_offset, subplot_idx)
                 if bins:
                     kwargs['bins'] = [bins[i], bins[j]]
                 plotter(X[:,j], X[:,i], **kwargs)
+                im = matplotlib.pyplot.gci()
 
                 if j == 0 or j + 1 == n:
                     pos = "left" if j == 0 else "right"
@@ -135,6 +170,13 @@ def scatterplot_matrix(X, names=None, plotter=density_plot, hist_plotter=matplot
                     set_tick_labels(sp, 'x', tick_fmt[j], tick_count)
             else:
                 set_plot_axis(sp, 'x', visible=False)
+
+    if colorbar:
+        fig = matplotlib.pyplot.gcf()
+        fig.subplots_adjust(right=.875)
+        cax = fig.add_axes([0.9, 0.1, 0.03, 0.8])
+        cbar = fig.colorbar(im, cax=cax)
+        cbar.set_label(colorbar_text)
 
     if rc:
         matplotlib.rcParams.update(rcOld)

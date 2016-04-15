@@ -1,0 +1,55 @@
+
+.spectrogram-container{
+    position:relative;
+    overflow:auto;
+    max-width:900px;
+}
+
+
+.spectrogram-container > img, .spectrogram-container > .rois, .spectrogram-container > .labels{
+    position:absolute;
+    top:0px;
+    left:0px;
+}
+
+.spectrogram-container > .rois > .roi, .spectrogram-container > .labels > .label{
+    position:absolute;
+
+}
+
+.spectrogram-container .labels .label {
+    font-size: 0.7em;
+    font-weight: normal;
+    text-shadow: 0 0 3px #000000;
+    transform: translate(-50%, -50%);
+}
+
+.roi {
+    outline:1px solid #00ff00;
+}
+
+.roiset-0 > .roi {
+    outline:1px solid #00ff00;
+}
+
+.roiset-1 > .roi {
+    outline:1px solid #00ffff;
+}
+
+.affixed-top-right{
+    position:fixed;
+    right:0px;
+    top:0px;
+    z-index:100;
+    background-color:#ffffff;
+    border-radius:5px;
+}
+
+.spectrogram-container > .links > .link {
+    stroke: #942092;
+    stroke-width: 5px;
+    fill: none;
+}
+
+
+statesgraph{position:absolute;}

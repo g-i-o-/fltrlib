@@ -1,7 +1,8 @@
-,audioUrl,bit_rate,datetime,duration,file,file_size,id,imageUrl,mic,precision,recorder,sample_encoding,sample_rate,samples,site,uri,version
-0,/api/project/thesis-gio/recordings/audio/146142,72.6k,2013-01-15T23:20:00.000Z,20.94,Mona_DSG_1014-2013-01-15_23-20.flac,190k,146142,/api/project/thesis-gio/recordings/image/146142,n/a,16,n/a,16-bit FLAC,10000,209408,Mona_DSG_1014,project_41/site_164/2013/1/Mona_DSG_1014-2013-01-15_23-20.flac,n/a
-1,/api/project/thesis-gio/recordings/audio/133214,493k,2013-03-23T03:58:00.000Z,59.96,EP_16-2013-03-23_03-58.flac,3.70M,133214,/api/project/thesis-gio/recordings/image/133214,ARBIMON protable mic,16,ARBIMON portable recorder,16-bit FLAC,44100,2644104,East Peak,project_58/site_253/2013/3/EP_16-2013-03-23_03-58.flac,ARBIMON II
-2,/api/project/thesis-gio/recordings/audio/146146,74.8k,2013-01-15T23:55:00.000Z,20.94,Mona_DSG_1014-2013-01-15_23-55.flac,196k,146146,/api/project/thesis-gio/recordings/image/146146,n/a,16,n/a,16-bit FLAC,10000,209408,Mona_DSG_1014,project_41/site_164/2013/1/Mona_DSG_1014-2013-01-15_23-55.flac,n/a
-3,/api/project/thesis-gio/recordings/audio/146147,70.7k,2013-01-15T23:35:00.000Z,20.94,Mona_DSG_1014-2013-01-15_23-35.flac,185k,146147,/api/project/thesis-gio/recordings/image/146147,n/a,16,n/a,16-bit FLAC,10000,209408,Mona_DSG_1014,project_41/site_164/2013/1/Mona_DSG_1014-2013-01-15_23-35.flac,n/a
-4,/api/project/thesis-gio/recordings/audio/161784,562k,2015-03-23T07:43:00.000Z,60.0,2015-03-23_07-40.p4.flac,4.22M,161784,/api/project/thesis-gio/recordings/image/161784,YOGA HT 81,24,TASCAM DR-40,24-bit FLAC,44100,2646000,Lagoa do Peri,project_55/site_306/2015/3/2015-03-23_07-40.p4.flac,Não especificado
-5,/api/project/thesis-gio/recordings/audio/120161,304k,2015-02-10T00:50:00.000Z,60.25,1000B-2015-02-10_00-50.flac,2.29M,120161,/api/project/thesis-gio/recordings/image/120161,Serge,16,LG,16-bit FLAC,44100,2657025,1000B,project_14/site_56/2015/2/1000B-2015-02-10_00-50.flac,Jan2015
+"file","site","datetime","duration","samples","sample_rate","sample_encoding","bit_rate","file_size","recorder","version","mic"
+"Mona_DSG_1014-2013-01-15_23-20.flac","Mona_DSG_1014","2013-01-15T23:20:00.000Z",20.94,209408,10000,"16-bit FLAC","72.6k","190k","n/a","n/a","n/a"
+"EP_16-2013-03-23_03-58.flac","East Peak","2013-03-23T03:58:00.000Z",59.96,2644104,44100,"16-bit FLAC","493k","3.70M","ARBIMON portable recorder","ARBIMON II","ARBIMON protable mic"
+"Mona_DSG_1014-2013-01-15_23-55.flac","Mona_DSG_1014","2013-01-15T23:55:00.000Z",20.94,209408,10000,"16-bit FLAC","74.8k","196k","n/a","n/a","n/a"
+"Mona_DSG_1014-2013-01-15_23-35.flac","Mona_DSG_1014","2013-01-15T23:35:00.000Z",20.94,209408,10000,"16-bit FLAC","70.7k","185k","n/a","n/a","n/a"
+"2015-03-23_07-40.p4.flac","Lagoa do Peri","2015-03-23T07:43:00.000Z",60.0,2646000,44100,"24-bit FLAC","562k","4.22M","TASCAM DR-40","Não especificado","YOGA HT 81"
+"1000B-2015-02-10_00-50.flac","1000B","2015-02-10T00:50:00.000Z",60.25,2657025,44100,"16-bit FLAC","304k","2.29M","LG","Jan2015","Serge"
+

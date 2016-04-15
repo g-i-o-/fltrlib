@@ -1,0 +1,34 @@
+<div class="spectrogram-container" ng-style="{width:layout.w, height:layout.h + 30}">
+    <img ng-src="{{image}}"
+        ng-style="{width:layout.w, height:layout.h}"
+    />
+    <div class="rois" ng-repeat="roiset in sets.rois" ng-show="roiset" ng-class="'roiset-'+roiset.idx">
+        <spectrogram-element class="roi" ng-repeat="roi in roiset.data" ng-style="{
+            top:layout.hz2Px(roi.f1), left:layout.sec2Px(roi.t0),
+            width:layout.dsec2Px(roi.t1 - roi.t0), height:layout.dhz2Px(roi.f1 - roi.f0),
+        }"></spectrogram-element>
+    </div>
+    <div class="labels" ng-repeat="labelset in sets.labels" ng-show="labelset" ng-class="'labelset-'+labelset.idx">
+        <spectrogram-element class="label" ng-repeat="label in labelset.data" ng-style="{
+            top:layout.hz2Px(label.f), left:layout.sec2Px(label.t)
+        }">{{label.text}}</spectrogram-element>
+    </div>
+    <div ng-repeat="linkset in sets.links" ng-show="linkset" ng-class="'labelset-'+labelset.idx">
+        <statesgraph>
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1"
+                -ng-attr-width="{{layout.w}}" ng-attr-height="{{layout.h}}"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+                <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+                    <g>
+                        <line ng-repeat="link in linkset.data"
+                            ng-attr-x1="{{layout.sec2Px(link[0].t,1)}}"
+                            ng-attr-y1="{{layout.hz2Px(link[0].f,1)}}"
+                            ng-attr-x2="{{layout.sec2Px(link[1].t,1)}}"
+                            ng-attr-y2="{{layout.hz2Px(link[1].f,1)}}"
+                            fill="#F0F8FF" stroke="#ff0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="6">
+                    </g>
+                </g>
+            </svg>
+        </statesgraph>
+    </div>
+</div>

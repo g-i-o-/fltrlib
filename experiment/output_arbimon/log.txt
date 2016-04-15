@@ -1,0 +1,31 @@
+2015-05-01 06:16:14:	 log file
+2015-05-01 06:16:14:	created directory: experiment/output_arbimon/
+2015-05-01 06:16:14:	fetching classification playlist
+2015-05-01 06:16:14:	playlist has 6 entries
+2015-05-01 06:16:14:	start categorization pipe
+2015-05-01 06:16:14:	sampling rate = 10000 Hz, length = 209408 samples, channels = 1
+2015-05-01 06:16:14:	<type 'numpy.ndarray'>
+2015-05-01 06:16:14:	opened file:0.00313878059387
+2015-05-01 06:16:14:	remove temporary file:0.00318098068237
+2015-05-01 06:16:14:	sampling rate = 44100 Hz, length = 2646000 samples, channels = 1
+2015-05-01 06:16:14:	<type 'numpy.ndarray'>
+2015-05-01 06:16:14:	opened file:0.0391030311584
+2015-05-01 06:16:14:	remove temporary file:0.0391581058502
+2015-05-01 06:16:17:	sampling rate = 10000 Hz, length = 209408 samples, channels = 1
+2015-05-01 06:16:17:	<type 'numpy.ndarray'>
+2015-05-01 06:16:17:	opened file:0.00319886207581
+2015-05-01 06:16:17:	remove temporary file:0.00325393676758
+2015-05-01 06:16:17:	sampling rate = 44100 Hz, length = 2657025 samples, channels = 1
+2015-05-01 06:16:17:	<type 'numpy.ndarray'>
+2015-05-01 06:16:17:	opened file:0.0410468578339
+2015-05-01 06:16:17:	remove temporary file:0.0411028862
+2015-05-01 06:16:20:	sampling rate = 10000 Hz, length = 209408 samples, channels = 1
+2015-05-01 06:16:20:	<type 'numpy.ndarray'>
+2015-05-01 06:16:20:	opened file:0.00320887565613
+2015-05-01 06:16:20:	remove temporary file:0.00325298309326
+2015-05-01 06:16:21:	sampling rate = 44100 Hz, length = 2644104 samples, channels = 1
+2015-05-01 06:16:21:	<type 'numpy.ndarray'>
+2015-05-01 06:16:21:	opened file:0.0420479774475
+2015-05-01 06:16:21:	remove temporary file:0.0421149730682
+2015-05-01 06:16:24:	script end
+2015-05-01 06:16:24:	execution time: 10.0876839161
