@@ -71,13 +71,13 @@ def set_tick_labels(plot, axis, ticks, count=None):
         map(ticks, getattr(plot, 'get_'+axis+'ticks')().tolist())
     )
     
-def scatterplot_matrix(X, names=None, plotter=density_plot, hist_plotter=matplotlib.pyplot.hist, bins=None, hbins=None, tick_count=None, tick_fmt=None, rc=None, showfn=None, mtype=None, axshowfn=None, colorbar=False, colorbar_text="", **kwargs):
+def scatterplot_matrix(X, names=None, plotter=density_plot, hist_plotter=matplotlib.pyplot.hist, titlefn=None, bins=None, hbins=None, tick_count=None, tick_fmt=None, rc=None, showfn=None, mtype=None, axshowfn=None, colorbar=False, vmin_scale=1, vmax_scale=.9, colorbar_text="", **kwargs):
     """Matrix of m x m plots, where m is X.shape[2]."""
     m, n = X.shape
     if not names:
         names = map(str, range(n))
     
-    idx_offset_i, idx_offset_j = 0, 0
+    idx_offset_i, idx_offset_j, n_offset = 0, 0, 0
         
     if not showfn and mtype:
         if mtype[0] == 'U':
@@ -119,7 +119,21 @@ def scatterplot_matrix(X, names=None, plotter=density_plot, hist_plotter=matplot
             hist_kwargs[k[5:]] = v
             del kwargs[k]
             
+    compute_vminmax = {'vmin':None, 'vmax':None}
     if colorbar:
+        compute_vminmax = {'vmin':min, 'vmax':max}
+        compute_vminmax['vmin'] = None if 'vmin' in kwargs else min
+        compute_vminmax['vmax'] = None if 'vmax' in kwargs else max
+
+    if 'vmin' in kwargs and kwargs['vmin'] in ('min', 'max'):
+        compute_vminmax['vmin'] = [min, max][kwargs['vmin'] == 'max']
+        del kwargs['vmin']
+    if 'vmax' in kwargs and kwargs['vmax'] in ('min', 'max'):
+        compute_vminmax['vmax'] = [min, max][kwargs['vmax'] == 'max']
+        del kwargs['vmax']
+            
+        
+    if compute_vminmax['vmin'] or compute_vminmax['vmax']:
         Vstat = None
         for i in range(n):
             H = numpy.histogram(X[:,i], bins=hbins[i] if hbins else 150)[0]
@@ -128,14 +142,16 @@ def scatterplot_matrix(X, names=None, plotter=density_plot, hist_plotter=matplot
             Hmin, Hmax = min(H), max(H)
 
             if Vstat:
-                Vstat['min'] = min(Vstat['min'], Hmin)
-                Vstat['max'] = max(Vstat['max'], Hmax)
+                if compute_vminmax['vmin']:
+                    Vstat['min'] = compute_vminmax['vmin'](Vstat['min'], Hmin)
+                if compute_vminmax['vmax']:
+                    Vstat['max'] = compute_vminmax['vmax'](Vstat['max'], Hmax)
             else :
                 Vstat = {'min':Hmin, 'max':Hmax}
-        if 'vmin' not in kwargs:
-            kwargs['vmin'] = Vstat['min']
-        if 'vmax' not in kwargs:
-            kwargs['vmax'] = Vstat['max'] * .9
+        if compute_vminmax['vmin']:
+            kwargs['vmin'] = Vstat['min'] * vmin_scale
+        if compute_vminmax['vmax']:
+            kwargs['vmax'] = Vstat['max'] * vmax_scale
 
 
     for i in range(n):
@@ -145,13 +161,19 @@ def scatterplot_matrix(X, names=None, plotter=density_plot, hist_plotter=matplot
             ni, nj = names[i], names[j]
             subplot_idx = (i + idx_offset_i)*(n + n_offset) + (j + idx_offset_j) + 1
             if i == j:
+                bins_i = hbins[i] if hbins else 150
+                bins_j = bins_i
                 sp = matplotlib.pyplot.subplot(n + n_offset, n + n_offset, subplot_idx)
-                hist_plotter(X[:,j], bins=hbins[i] if hbins else 150, **hist_kwargs)
+                hist_plotter(X[:,j], bins=bins_i, **hist_kwargs)
                 set_plot_axis(sp, 'y', visible=False)
             else:
                 sp = matplotlib.pyplot.subplot(n + n_offset, n + n_offset, subplot_idx)
                 if bins:
                     kwargs['bins'] = [bins[i], bins[j]]
+                    bins_i, bins_j = bins[i], bins[j]
+                else:
+                    bins_i, bins_j = None, None
+
                 plotter(X[:,j], X[:,i], **kwargs)
                 im = matplotlib.pyplot.gci()
 
@@ -170,6 +192,9 @@ def scatterplot_matrix(X, names=None, plotter=density_plot, hist_plotter=matplot
                     set_tick_labels(sp, 'x', tick_fmt[j], tick_count)
             else:
                 set_plot_axis(sp, 'x', visible=False)
+            
+            if titlefn:
+                matplotlib.pyplot.title(titlefn(ni, X[:,i], bins_i, nj, X[:,j], bins_j))
 
     if colorbar:
         fig = matplotlib.pyplot.gcf()
